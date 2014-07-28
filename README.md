@@ -7,10 +7,13 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Asset Management](#asset-management)
     - [Debugging](#debugging)
     - [Fields](#fields)
+    - [File Transfers](#file-transfers)
     - [Forms](#forms)
+    - [Migrations](#migrations)
     - [Model Extensions](#model-extensions)
     - [RESTful API](#restful-api)
     - [Search](#search)
+    - [Storage](#storage)
     - [Tagging](#tagging)
     - [Translations](#translations)
     - [Other](#other)
@@ -32,6 +35,9 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-image-tools](https://github.com/bonsaistudio/django-image-tools/) - A package to handle images in Django.
 * [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django. 
 
+## File Transfer
+* [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients. 
+
 ## Forms
 * [django-crispy-forms](https://github.com/maraujop/django-crispy-forms/) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
 * [django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - django-floppyforms is an application that gives you full control of the output of forms rendering. The forms API and features are exactly the same as Django’s, the key difference is that fields and widgets are rendered in templates instead of using string interpolation, giving you full control of the output using Django templates.
@@ -44,9 +50,12 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 
-## Model Extensions
+## Migrations
+* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations.
 
+## Model Extensions
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
+* [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 
 ## Search
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
@@ -57,14 +66,16 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 ## Translations
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 
+## Storage
+* [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
+
 ## Other
-* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations.
+* [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
 * [django-gravatar2](https://github.com/twaddington/django-gravatar/) - Essential Gravatar support for Django. Features helper methods, templatetags and a full test suite!
 * [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
-* [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 * [sentry](https://github.com/getsentry/sentry/) - Sentry is a realtime, platform-agnostic error logging and aggregation platform.
