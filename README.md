@@ -10,6 +10,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Forms](#forms)
     - [Model Extensions](#model-extensions)
     - [RESTful API](#restful-api)
+    - [Search](#search)
     - [Tagging](#tagging)
     - [Translations](#translations)
     - [Other](#other)
@@ -41,10 +42,14 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
+* [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 
 ## Model Extensions
 
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
+
+## Search
+* [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
 
 ## Tagging
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
