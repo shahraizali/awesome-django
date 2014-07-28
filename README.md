@@ -11,6 +11,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Model Extensions](#model-extensions)
     - [RESTful API](#restful-api)
     - [Tagging](#tagging)
+    - [Testing](#testing)
     - [Translations](#translations)
     - [Other](#other)
 - [Projects](#projects)
@@ -49,8 +50,17 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 ## Tagging
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
 
+## Testing
+* [django-selenium](https://github.com/dragoon/django-selenium) - Selenium testing support
+* [django-nose](https://github.com/django-nose/django-nose/) - Test runner using nose
+* [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
+* [django-behave](https://github.com/django-behave/django-behave) - TestRunner for the Behave BDD module
+* [factory_boy](https://github.com/rbarrois/factory_boy) - A test fixtures replacement for Python
+* [django-faker](https://github.com/joke2k/django-faker) - Fake-factory to generate test data
+
 ## Translations
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+* [django-modeltranslation](https://github.com/deschler/django-modeltranslation) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes
 
 ## Other
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations.
