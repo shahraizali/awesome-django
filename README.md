@@ -80,6 +80,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 * [sentry](https://github.com/getsentry/sentry/) - Sentry is a realtime, platform-agnostic error logging and aggregation platform.
 * [django-secure](https://github.com/carljm/django-secure) - Helping you remember to do the stupid little things to improve your Django site's security.
+* [django-configurations](https://github.com/jezdez/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
 
 # Projects
 
