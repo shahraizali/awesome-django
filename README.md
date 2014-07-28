@@ -13,8 +13,10 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Model Extensions](#model-extensions)
     - [RESTful API](#restful-api)
     - [Search](#search)
+    - [Settings](#settings)
     - [Storage](#storage)
     - [Tagging](#tagging)
+    - [Testing](#testing)
     - [Translations](#translations)
     - [Other](#other)
 - [Projects](#projects)
@@ -29,6 +31,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 ## Debugging
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
+* [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
 
 ## Fields
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
@@ -56,18 +59,26 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 ## Model Extensions
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
+* [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
 
 ## Search
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
 
-## Tagging
-* [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
-
-## Translations
-* [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+## Settings
+* [django-configuration](https://github.com/jezdez/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
+* [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 
 ## Storage
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
+
+## Tagging
+* [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
+
+## Testing
+* [model-mommy](https://github.com/vandersonmota/model_mommy) - Smart fixtures for better tests.
+
+## Translations
+* [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 
 ## Other
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
