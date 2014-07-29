@@ -101,6 +101,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that provide search capabilities to projects.*
 
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
+* [django-watson](https://github.com/etianen/django-watson) - Fast multi-model full-text search plugin.
 
 ## Security
 
