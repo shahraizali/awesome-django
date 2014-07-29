@@ -29,10 +29,11 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 *Packages that extend the Admin interface, adding or improving features.*
 
+* [django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap/) - Responsible Skin for Django Admin
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
+* [django-hijack](https://github.com/arteria/django-hijack/) - Allows superusers to hijack (=login as) and work on behalf of another user.
 * [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
-* [django-xadmin](https://github.com/sshwsfc/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
-* [django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap) - Responsible Skin for Django Admin
+* [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
 
 ## Asset Management
 
@@ -46,6 +47,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that improve or extend the authentication methods of Django.*
 
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - User-friendly Two-Factor authentication.
 
 ## Debugging
 
@@ -104,6 +106,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that provide search capabilities to projects.*
 
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
+* [django-watson](https://github.com/etianen/django-watson) - Fast multi-model full-text search plugin.
 
 ## Security
 
