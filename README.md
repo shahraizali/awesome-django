@@ -82,6 +82,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [factory_boy](https://github.com/rbarrois/factory_boy) - A test fixtures replacement for Python
 * [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
 * [model-mommy](https://github.com/vandersonmota/model_mommy) - Smart fixtures for better tests.
+* [django-slowtests](https://github.com/realpython/django-discover-slowest-tests-runner) - Locate your slowest tests.
 
 ## Translations
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
