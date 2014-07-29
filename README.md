@@ -98,13 +98,6 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
 
-## Task Queue
-
-*Packages that make working with task/background queues easier.*
-
-* [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
-
-
 ## Migrations
 
 *Packages that help migrate the database when there are schema updates.*
@@ -151,6 +144,12 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 ## Tagging
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
+
+## Task Queue
+
+*Packages that make working with task/background queues easier.*
+
+* [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 
 ## Testing
 
