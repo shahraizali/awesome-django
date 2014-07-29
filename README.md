@@ -57,7 +57,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
 * [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
-* [silk](https://github.com/mtford90/silk) - Silky smooth profiling for Django
+* [django-silk](https://github.com/mtford90/silk/) - Silky smooth profiling for Django
 
 ## Fields
 
@@ -88,7 +88,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
-* [restless](http://restless.readthedocs.org/) - A lightweight REST miniframework for Python
+* [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
 
 ## Migrations
 
@@ -109,7 +109,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that provide search capabilities to projects.*
 
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
-* [django-watson](https://github.com/etianen/django-watson) - Fast multi-model full-text search plugin.
+* [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
 
 ## Security
 
@@ -117,9 +117,9 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - A fake Django admin login screen to notify admins of attempted unauthorized access.
 * [django-debreach](https://github.com/lpomfrey/django-debreach/) - BREACH mitigation for Django apps.
+* [django-password-session](https://github.com/atugushev/django-password-session/) - Invalidate all active sessions after change password ([not needed for Django 1.7+](https://docs.djangoproject.com/en/dev/topics/auth/default/#session-invalidation-on-password-change)).
 * [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
-* [django-password-session](https://github.com/atugushev/django-password-session/) - Invalidate all active sessions after change password ([not needed for Django 1.7+](https://docs.djangoproject.com/en/dev/topics/auth/default/#session-invalidation-on-password-change)).
 
 ## Settings
 
@@ -133,7 +133,6 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
-* [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
 
 ## Tagging
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
@@ -142,10 +141,10 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 *Packages that help test code or generate test data.*
 
-* [django-behave](https://github.com/django-behave/django-behave/) - TestRunner for the Behave BDD module
-* [django-faker](https://github.com/joke2k/django-faker/) - Fake-factory to generate test data
-* [django-nose](https://github.com/django-nose/django-nose/) - Test runner using nose
-* [django-selenium](https://github.com/dragoon/django-selenium/) - Selenium testing support
+* [django-behave](https://github.com/django-behave/django-behave/) - TestRunner for the Behave BDD module.
+* [django-faker](https://github.com/joke2k/django-faker/) - Fake-factory to generate test data.
+* [django-nose](https://github.com/django-nose/django-nose/) - Test runner using nose.
+* [django-selenium](https://github.com/dragoon/django-selenium/) - Selenium testing support.
 * [django-slowtests](https://github.com/realpython/django-discover-slowest-tests-runner/) - Locate your slowest tests.
 * [factory_boy](https://github.com/rbarrois/factory_boy/) - A test fixtures replacement for Python
 * [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
@@ -159,6 +158,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes
 
 ## Other
+* [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
@@ -166,7 +166,6 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
-* [sentry](https://github.com/getsentry/sentry/) - Sentry is a realtime, platform-agnostic error logging and aggregation platform.
 
 # Projects
 
@@ -175,11 +174,12 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 * [Opps](http://oppsproject.org/) - A content management platform built for large portals.
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
-* [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS
-* [django-oscar](https://github.com/tangentlabs/django-oscar/) - Domain-driven e-commerce for Django
+* [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS.
+* [django-oscar](https://github.com/tangentlabs/django-oscar/) - Domain-driven e-commerce for Django.
 * [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
-* [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system
+* [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
+
 # Resources
 
 Where to discover new Django apps and projects.
