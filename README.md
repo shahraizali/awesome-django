@@ -31,6 +31,8 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
 * [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
+* [django-xadmin](https://github.com/sshwsfc/django-xadmin) Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
+* [django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap)
 
 ## Asset Management
 
