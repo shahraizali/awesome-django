@@ -75,10 +75,17 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
 
 ## Testing
+* [django-behave](https://github.com/django-behave/django-behave) - TestRunner for the Behave BDD module
+* [django-faker](https://github.com/joke2k/django-faker) - Fake-factory to generate test data
+* [django-nose](https://github.com/django-nose/django-nose/) - Test runner using nose
+* [django-selenium](https://github.com/dragoon/django-selenium) - Selenium testing support
+* [factory_boy](https://github.com/rbarrois/factory_boy) - A test fixtures replacement for Python
+* [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
 * [model-mommy](https://github.com/vandersonmota/model_mommy) - Smart fixtures for better tests.
 
 ## Translations
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+* [django-modeltranslation](https://github.com/deschler/django-modeltranslation) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes
 
 ## Other
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
