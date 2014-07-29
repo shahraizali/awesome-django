@@ -133,6 +133,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
+* [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
 
 ## Tagging
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
@@ -149,6 +150,8 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [factory_boy](https://github.com/rbarrois/factory_boy/) - A test fixtures replacement for Python
 * [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
 * [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
+* [pinocchio](http://darcs.idyll.org/~t/projects/pinocchio/doc/) - Nose extension to improve testing
+* [nose-xcover](https://github.com/cmheisel/nose-xcover/) - Nose extension for coverage report.
 
 ## Translations
 
