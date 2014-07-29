@@ -44,6 +44,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that improve or extend the authentication methods of Django.*
 
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - User-friendly Two-Factor authentication.
 
 ## Debugging
 
