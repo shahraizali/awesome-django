@@ -76,6 +76,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 ## Testing
 * [model-mommy](https://github.com/vandersonmota/model_mommy) - Smart fixtures for better tests.
+* [django-slowtests](https://github.com/realpython/django-discover-slowest-tests-runner) - Locate your slowest tests.
 
 ## Translations
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
