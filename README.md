@@ -150,8 +150,6 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [factory_boy](https://github.com/rbarrois/factory_boy/) - A test fixtures replacement for Python
 * [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
 * [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
-* [pinocchio](http://darcs.idyll.org/~t/projects/pinocchio/doc/) - Nose extension to improve testing
-* [nose-xcover](https://github.com/cmheisel/nose-xcover/) - Nose extension for coverage report.
 
 ## Translations
 
