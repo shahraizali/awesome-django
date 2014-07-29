@@ -14,6 +14,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Model Extensions](#model-extensions)
     - [RESTful API](#restful-api)
     - [Search](#search)
+    - [Security](#security)
     - [Settings](#settings)
     - [Storage](#storage)
     - [Tagging](#tagging)
@@ -100,6 +101,13 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
 
+## Security
+
+*Packages that improve the security of a project.*
+
+* [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
+* [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
+
 ## Settings
 
 *Packages that help manage the configurability of projects.*
@@ -142,10 +150,8 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
 * [django-gravatar2](https://github.com/twaddington/django-gravatar/) - Essential Gravatar support for Django. Features helper methods, templatetags and a full test suite!
 * [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
-* [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
-* [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
 * [sentry](https://github.com/getsentry/sentry/) - Sentry is a realtime, platform-agnostic error logging and aggregation platform.
 
 # Projects
