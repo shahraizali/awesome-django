@@ -99,6 +99,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS
 * [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
+* [Opps](http://oppsproject.org/) - A content management platform built for large portals.
 
 # Contributing
 
