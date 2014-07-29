@@ -43,6 +43,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that improve or extend the authentication methods of Django.*
 
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* [django-userena](https://github.com/bread-and-pepper/django-userena) - Accounts for Django made beautifully simple
 
 ## Debugging
 
@@ -51,6 +52,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
 * [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
+* [silk](https://github.com/mtford90/silk) - Silky smooth profiling for Django
 
 ## Fields
 
@@ -108,6 +110,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
+* [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access.
 
 ## Settings
 
@@ -166,7 +169,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-oscar](https://github.com/tangentlabs/django-oscar/) - Domain-driven e-commerce for Django
 * [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
-
+* [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system
 # Resources
 
 Where to discover new Django apps and projects.
