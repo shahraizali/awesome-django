@@ -31,6 +31,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
 * [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
+* [django-hijack](https://github.com/arteria/django-hijack) - Allows superusers to hijack (=login as) and work on behalf of another user.
 
 ## Asset Management
 
