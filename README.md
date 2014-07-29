@@ -152,12 +152,14 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 * [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django.
+
 ## Testing
 
 *Packages that help test code or generate test data.*
 
 * [django-behave](https://github.com/django-behave/django-behave/) - TestRunner for the Behave BDD module.
 * [django-faker](https://github.com/joke2k/django-faker/) - Fake-factory to generate test data.
+* [django-jenkins](https://github.com/kmmbvnr/django-jenkins) - Plug and play continuous integration with django and jenkins.
 * [django-nose](https://github.com/django-nose/django-nose/) - Test runner using nose.
 * [django-selenium](https://github.com/dragoon/django-selenium/) - Selenium testing support.
 * [django-slowtests](https://github.com/realpython/django-discover-slowest-tests-runner/) - Locate your slowest tests.
