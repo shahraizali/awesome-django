@@ -37,6 +37,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that help manage the static assets of a project.*
 
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
+* [django-pipeline](https://github.com/cyberdelia/django-pipeline/) - Asset packaging for Django.
 
 ## Authentication
 
@@ -108,6 +109,8 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
+* [django-debreach](https://github.com/lpomfrey/django-debreach) - BREACH mitigation for Django apps.
+* [django-password-session](https://github.com/atugushev/django-password-session) - Invalidate all active sessions after change password ([not needed for Django 1.7+](https://docs.djangoproject.com/en/dev/topics/auth/default/#session-invalidation-on-password-change)).
 
 ## Settings
 
