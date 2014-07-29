@@ -36,6 +36,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-hijack](https://github.com/arteria/django-hijack/) - Allows superusers to hijack (=login as) and work on behalf of another user.
 * [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
 * [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
+* [django-admin2](https://github.com/pydanny/django-admin2) - Extendable, adaptable rewrite of django.contrib.admin
 
 ## Asset Management
 
@@ -150,7 +151,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that make working with task/background queues easier.*
 
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
-
+* [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django.
 ## Testing
 
 *Packages that help test code or generate test data.*
