@@ -7,12 +7,14 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Asset Management](#asset-management)
     - [Authentication](#authentication)
     - [Debugging](#debugging)
+    - [Email](#email)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
     - [Forms](#forms)
     - [Migrations](#migrations)
     - [Model Extensions](#model-extensions)
     - [RESTful API](#restful-api)
+    - [Task Queue](#task-queue)
     - [Search](#search)
     - [Security](#security)
     - [Settings](#settings)
@@ -59,6 +61,12 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
 * [django-silk](https://github.com/mtford90/silk/) - Silky smooth profiling for Django
 
+## Email
+
+*Packages that help manage email sending.*
+
+* [django-post_office](https://github.com/ui/django-post_office) - A simple app to send and manage your emails in Django, supports templates and can be easily integrated with task queues.
+
 ## Fields
 
 *Packages that extend the functionality of existing field type or add new field types.*
@@ -89,6 +97,13 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
+
+## Task Queue
+
+*Packages that make working with task/background queues easier.*
+
+* [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
+
 
 ## Migrations
 
