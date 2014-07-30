@@ -161,6 +161,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 * [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django. (no longer required for Celery 3.1 and up)
+* [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
 
 ## Testing
 
@@ -192,6 +193,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
+* [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 
 # Projects
 
