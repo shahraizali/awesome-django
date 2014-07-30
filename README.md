@@ -6,6 +6,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
     - [Authentication](#authentication)
+    - [Authorization](#authorization)
     - [Debugging](#debugging)
     - [Email](#email)
     - [Fields](#fields)
@@ -53,6 +54,12 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth/) - User-friendly Two-Factor authentication.
 * [django-userena](https://github.com/bread-and-pepper/django-userena/) - Accounts for Django made beautifully simple
 * [python-social-auth](https://github.com/omab/python-social-auth) - Python Social Auth is an easy-to-setup social authentication/registration mechanism with support for several frameworks and auth providers.
+
+## Authorization
+
+*Packages related to authorization infrastructure and permissions.*
+
+* [django-guardian](https://github.com/lukaszb/django-guardian) - Implementation of per object permissions as authorization backend.
 
 ## Debugging
 
