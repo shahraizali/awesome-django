@@ -152,7 +152,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that make working with task/background queues easier.*
 
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
-* [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django.
+* [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django. (no longer required for Celery 3.1 and up)
 
 ## Testing
 
