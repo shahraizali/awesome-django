@@ -121,7 +121,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if/) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
-* * [django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame.
+* [django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame.
 
 ## Search
 
