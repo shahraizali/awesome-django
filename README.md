@@ -83,6 +83,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-image-tools](https://github.com/bonsaistudio/django-image-tools/) - A package to handle images in Django.
 * [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django.
+* [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - JSONField for django models.
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
 
 ## File Transfers
