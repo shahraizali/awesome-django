@@ -201,6 +201,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
+* [django-changuito] (https://github.com/angvp/django-changuito) - A cart app for your django site, an updated fork of django-cart
 
 # Projects
 
