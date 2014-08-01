@@ -92,6 +92,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django.
 * [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - JSONField for Django models.
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
+* [django-location-field] (https://github.com/caioariede/django-location-field) - Location field and widget integrated with google maps.
 
 ## File Transfers
 
