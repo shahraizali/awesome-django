@@ -190,6 +190,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 * [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes
+* [django-klingon] (https://github.com/RouteAtlas/django-klingon/) - An attempt to make django model translations suckless and with no integrations pain in your app
 
 ## Other
 * [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
