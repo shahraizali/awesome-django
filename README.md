@@ -63,6 +63,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages related to authorization infrastructure and permissions.*
 
 * [django-guardian](https://github.com/lukaszb/django-guardian) - Implementation of per object permissions as authorization backend.
+* [django-oml] (https://github.com/RouteAtlas/django-oml) - Object Moderation Layer, mixin for models that allows you moderate several content types.
 
 ## Debugging
 
