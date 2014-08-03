@@ -117,6 +117,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
+* [django-nap](http://github.com/funkybob/django-nap) - A minimalist approach to object serialization, RESTful views, and RPC views.
 
 ## Migrations
 
