@@ -7,6 +7,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Asset Management](#asset-management)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
+    - [Caching](#caching)
     - [Debugging](#debugging)
     - [Email](#email)
     - [Fields](#fields)
@@ -65,6 +66,12 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-guardian](https://github.com/lukaszb/django-guardian) - Implementation of per object permissions as authorization backend.
 * [django-oml] (https://github.com/RouteAtlas/django-oml) - Object Moderation Layer, mixin for models that allows you moderate several content types.
 * [django-permission](https://github.com/lambdalisue/django-permission) An enhanced permission library which enables a *logic-based permission system* to handle complex permissions in Django
+
+## Caching
+
+*Packages that help with caching.*
+
+* [django-ormcache](https://github.com/educreations/django-ormcache) - A cache manager mixin that provides some caching of objects for the ORM.
 
 ## Debugging
 
