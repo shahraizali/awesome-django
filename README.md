@@ -88,6 +88,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that help manage email sending.*
 
 * [django-post_office](https://github.com/ui/django-post_office) - A simple app to send and manage your emails in Django, supports templates and can be easily integrated with task queues.
+* [django-ses](https://github.com/hmarr/django-ses) - A Django email backend for Amazon's Simple Email Service.
 * [djrill](https://github.com/brack3t/Djrill) - Email backend and new message class for Mandrill transactional email service from MailChimp.
 
 ## Fields
