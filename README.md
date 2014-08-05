@@ -42,6 +42,8 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django
 * [django-admin-tools](https://bitbucket.org/izi/django-admin-tools) - A collection of extensions/tools for the default django administration interface
 * [django-fluent-dashboard](https://github.com/edoburu/django-fluent-dashboard) - An improved django-admin-tools dashboard for Django projects
+* [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped) - A Django admin theme using Twitter Bootstrap.
+* [djamin](https://github.com/hersonls/djamin) - A new style for Django admin.
 
 ## Asset Management
 
@@ -132,7 +134,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 *Packages that help migrate the database when there are schema updates.*
 
-* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations. (Integrated into Django 1.7 and up)
+* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations. ([Integrated into Django 1.7 and up](https://docs.djangoproject.com/en/dev/topics/migrations/))
 
 ## Model Extensions
 
