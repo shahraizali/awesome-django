@@ -134,7 +134,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 *Packages that help migrate the database when there are schema updates.*
 
-* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations. (Integrated into Django 1.7 and up)
+* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations. ([Integrated into Django 1.7 and up](https://docs.djangoproject.com/en/dev/topics/migrations/))
 
 ## Model Extensions
 
