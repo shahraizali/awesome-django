@@ -220,6 +220,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [django-changuito] (https://github.com/angvp/django-changuito) - A cart app for your django site, an updated fork of django-cart
+* [django-quiz-app](https://github.com/tomwalker/django_quiz) - This is a configurable quiz app for Django.
 
 # Projects
 
