@@ -75,6 +75,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that help with caching.*
 
 * [django-ormcache](https://github.com/educreations/django-ormcache/) - A cache manager mixin that provides some caching of objects for the ORM.
+* [johnny-cache](https://github.com/jmoiron/johnny-cache/) - Johnny Cache is a caching framework for django applications.
 
 ## Debugging
 
