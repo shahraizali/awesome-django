@@ -24,6 +24,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Task Queue](#task-queue)
     - [Testing](#testing)
     - [Translations](#translations)
+    - [Workflows](#workflows)
     - [Other](#other)
 - [Projects](#projects)
 - [Resources](#resources)
@@ -105,6 +106,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - JSONField for Django models.
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with google maps.
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
+* [django-uuidfield](https://github.com/dcramer/django-uuidfield/) - A UUIDField for Django.
 
 ## File Transfers
 
@@ -211,6 +213,16 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes.
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 
+## Workflows
+
+*Packages that do process, procedure and/or business tasks management.*
+
+* [django-flows](https://github.com/carlio/django-flows/) - django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.
+* [django-fsm](https://github.com/kmmbvnr/django-fsm/) - Django friendly finite state machine support.
+* [django-states](https://github.com/vikingco/django-states2/) - State machine for django models.
+* [django-viewflow](https://github.com/kmmbvnr/django-viewflow/) - Reusable workflow library for Django.
+* [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
+
 ## Other
 
 * [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
@@ -218,9 +230,11 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
 * [django-changuito](https://github.com/angvp/django-changuito/) - A cart app for your django site, an updated fork of django-cart
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
+* [django-friendship](https://github.com/revsys/django-friendship/) - Django app to manage following and bi-directional friendships.
 * [django-gravatar2](https://github.com/twaddington/django-gravatar/) - Essential Gravatar support for Django. Features helper methods, templatetags and a full test suite!
 * [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
 * [django-quiz-app](https://github.com/tomwalker/django_quiz/) - This is a configurable quiz app for Django.
+* [django-recaptcha](https://github.com/praekelt/django-recaptcha/) - Django reCAPTCHA form field/widget integration app.
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
