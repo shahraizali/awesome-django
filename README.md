@@ -178,6 +178,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
+* [django-queued-storage](https://github.com/jezdez/django-queued-storage/) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
 
 ## Tagging
 
