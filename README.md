@@ -24,6 +24,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Task Queue](#task-queue)
     - [Testing](#testing)
     - [Translations](#translations)
+    - [Web frontend integration](#web-frontend-integration)
     - [Workflows](#workflows)
     - [Other](#other)
 - [Projects](#projects)
@@ -215,6 +216,11 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-klingon](https://github.com/RouteAtlas/django-klingon/) - An attempt to make django model translations suckless and with no integrations pain in your app.
 * [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes.
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+
+## Web frontend integration
+
+* [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
+* [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
 
 ## Workflows
 
