@@ -1,6 +1,6 @@
 # Awesome Django
 
-A curated list of awesome Django apps. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
+A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 - [Awesome Django](#awesome-django)
     - [Admin Interface](#admin-interface)
@@ -317,4 +317,4 @@ Where to discover new Django apps and projects.
 
 # Contributing
 
-Just fork and send a pull request with your awesome django apps and/or projects.
+Just fork and send a pull request with your awesome Django apps, projects or resources.
