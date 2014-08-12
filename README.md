@@ -289,6 +289,10 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 Where to discover new Django apps and projects.
 
+## Books
+
+* [Two Scoops of Django: Best Practices for Django 1.6](http://twoscoopspress.org/products/two-scoops-of-django-1-6/) - Making Python and Django as fun as ice cream.
+
 ## Websites
 
 * [Django Packages](https://www.djangopackages.com/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
