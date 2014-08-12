@@ -32,9 +32,17 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [CMS](#cms)
     - [Document Management](#document-management)
     - [e-Commerce](#e-commerce)
+    - [Project Management](#project-management)
     - [Other](#other)
 - [Resources](#resources)
+    - [Books](#books)
+    - [Websites](#websites)
+    - [Conferences](#conferences)
+    - [Videos](#videos)
 - [Contributing](#contributing)
+
+
+
 
 ## Admin interface
 
