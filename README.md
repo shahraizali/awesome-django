@@ -15,6 +15,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Forms](#forms)
     - [Migrations](#migrations)
     - [Model Extensions](#model-extensions)
+    - [Project Management](#project-management)
     - [RESTful API](#restful-api)
     - [Search](#search)
     - [Security](#security)
@@ -27,6 +28,10 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Workflows](#workflows)
     - [Other](#other)
 - [Projects](#projects)
+    - [CMS](#cms)
+    - [Document Management](#document-management)
+    - [e-Commerce](#e-commerce)
+    - [Other](#other)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -148,6 +153,10 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 
+## Project Management
+
+* [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
+
 ## Search
 
 *Packages that provide search capabilities to projects.*
@@ -244,14 +253,29 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 
 *Outstanding Django projects.*
 
-* [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
+## CMS
+
 * [Opps](http://oppsproject.org/) - A content management platform built for large portals.
-* [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS.
-* [django-oscar](https://github.com/tangentlabs/django-oscar/) - Domain-driven e-commerce for Django.
-* [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
 * [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
+
+## Document Management
+
+* [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
+
+## e-Commerce
+
+* [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
+* [django-oscar](https://github.com/tangentlabs/django-oscar/) - Domain-driven e-commerce for Django.
+
+## Other
+
+* [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
+
+## Project Management
+
+* [ITSY](https://github.com/orges/itsy/) - Issue Tracking System
 
 # Resources
 
