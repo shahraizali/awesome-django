@@ -25,6 +25,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Task Queue](#task-queue)
     - [Testing](#testing)
     - [Translations](#translations)
+    - [Web frontend integration](#web-frontend-integration)
     - [Workflows](#workflows)
     - [Other](#other)
 - [Projects](#projects)
@@ -187,6 +188,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
+* [django-queued-storage](https://github.com/jezdez/django-queued-storage/) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
 
 ## Tagging
 
@@ -213,6 +215,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [factory_boy](https://github.com/rbarrois/factory_boy/) - A test fixtures replacement for Python
 * [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
 * [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
+* [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
 
 ## Translations
@@ -222,6 +225,11 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-klingon](https://github.com/RouteAtlas/django-klingon/) - An attempt to make django model translations suckless and with no integrations pain in your app.
 * [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes.
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+
+## Web frontend integration
+
+* [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
+* [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
 
 ## Workflows
 
