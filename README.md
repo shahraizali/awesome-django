@@ -303,6 +303,10 @@ Where to discover new Django apps and projects.
 * [DjangoCon Europe](http://2014.djangocon.eu/) is the annual largest European-based Django conference that is usually held in late spring.
 * [DjangoCon US](http://www.djangocon.us/) is the largest North American Django conference generally held the first week in September each year.
 
+## Videos
+
+* [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
+
 # Contributing
 
 Just fork and send a pull request with your awesome django apps and/or projects.
