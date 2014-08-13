@@ -24,6 +24,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Tagging](#tagging)
     - [Task Queue](#task-queue)
     - [Testing](#testing)
+    - [Thumbnail](#thumbnail)
     - [Translations](#translations)
     - [Web frontend integration](#web-frontend-integration)
     - [Workflows](#workflows)
@@ -225,6 +226,12 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
+
+## Thumbnail
+
+*Packages that help generate thumbnails.*
+
+* [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 
 ## Translations
 
