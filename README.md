@@ -231,6 +231,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help generate thumbnails.*
 
+* [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 
 ## Translations
@@ -271,7 +272,6 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
-* [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 
 # Projects
 
