@@ -231,6 +231,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help generate thumbnails.*
 
+* [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 
 ## Translations
