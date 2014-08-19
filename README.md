@@ -260,6 +260,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 ## Other
 
+* [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
 * [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
