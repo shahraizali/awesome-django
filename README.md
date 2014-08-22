@@ -236,6 +236,12 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 
+## Cropping Image
+
+* Package that help to cropping Image. *
+
+* [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - Cropping Image for Django.
+
 ## Translations
 
 *Packages help with the task of translating projects.*
