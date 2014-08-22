@@ -25,6 +25,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Task Queue](#task-queue)
     - [Testing](#testing)
     - [Thumbnail](#thumbnail)
+    - [Cropping Images](#cropping-image)
     - [Translations](#translations)
     - [Web frontend integration](#web-frontend-integration)
     - [Workflows](#workflows)
