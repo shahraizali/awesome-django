@@ -238,7 +238,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 ## Cropping Image
 
-*Package that help to cropping Image.*
+*Package that help to crop Images.*
 
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - Cropping Image for Django.
 
