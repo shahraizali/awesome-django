@@ -25,6 +25,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Task Queue](#task-queue)
     - [Testing](#testing)
     - [Thumbnail](#thumbnail)
+    - [Cropping Images](#cropping-image)
     - [Translations](#translations)
     - [Web frontend integration](#web-frontend-integration)
     - [Workflows](#workflows)
@@ -235,6 +236,12 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
+
+## Cropping Image
+
+*Packages that help to crop Images.*
+
+* [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - Cropping Image for Django.
 
 ## Translations
 
