@@ -61,6 +61,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
 * [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django
+* [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress look and feel for Django administration panel.
 
 ## Asset Management
 
