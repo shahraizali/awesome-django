@@ -296,6 +296,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
 * [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
+* [django-fiber](https://github.com/ridethepony/django-fiber) - Django Fiber, a simple, user-friendly CMS for all your Django projects
 
 ## Document Management
 
