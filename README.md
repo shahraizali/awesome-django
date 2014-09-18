@@ -85,6 +85,8 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages related to authorization infrastructure and permissions.*
 
+* [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
+* [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Provide OAuth2 access to your app
 * [django-guardian](https://github.com/lukaszb/django-guardian/) - Implementation of per object permissions as authorization backend.
 * [django-oml](https://github.com/RouteAtlas/django-oml/) - Object Moderation Layer, mixin for models that allows you moderate several content types.
 * [django-permission](https://github.com/lambdalisue/django-permission/) An enhanced permission library which enables a *logic-based permission system* to handle complex permissions in Django
@@ -320,6 +322,14 @@ Where to discover new Django apps and projects.
 
 ## Books
 
+* [Django by Example](http://www.lightbird.net/dbe/) (1.2)
+* [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
+* [Djen of Django](http://agiliq.com/books/djenofdjango/)
+* [Effective Django](http://effectivedjango.com/) (1.5)
+* [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
+* [Tango With Django](http://www.tangowithdjango.com/) (1.5)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
+* [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
 * [Two Scoops of Django: Best Practices for Django 1.6](http://twoscoopspress.org/products/two-scoops-of-django-1-6/) - Making Python and Django as fun as ice cream.
 
 ## Websites
