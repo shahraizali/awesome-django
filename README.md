@@ -28,6 +28,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Cropping Images](#cropping-image)
     - [Translations](#translations)
     - [Web frontend integration](#web-frontend-integration)
+    - [Wiki apps](#wiki-apps)
     - [Workflows](#workflows)
     - [Other](#other)
 - [Projects](#projects)
@@ -259,6 +260,11 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
 * [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
 * [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
+
+## Wiki apps
+
+* [django-wiki](https://github.com/django-wiki/django-wiki) A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
+* [waliki](https://github.com/mgaitan/waliki) An extensible wiki app for Django with a Git backend.
 
 ## Workflows
 
