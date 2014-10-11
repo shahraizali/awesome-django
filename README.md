@@ -12,6 +12,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Email](#email)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
+    - [Views & Templates] ($views-templates)
     - [Forms](#forms)
     - [Migrations](#migrations)
     - [Model Extensions](#model-extensions)
@@ -136,6 +137,9 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - Serve files with Django.
 * [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
+
+## Views & Templates
+* [django-filter] (https://github.com/alex/django-filter) - A generic system for filtering Django QuerySets based on user selections.
 
 ## Forms
 
