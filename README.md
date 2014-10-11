@@ -12,8 +12,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Email](#email)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
-    - [Views & Templates] ($views-templates)
-    - [Forms](#forms)
+v    - [Forms](#forms)
     - [Migrations](#migrations)
     - [Model Extensions](#model-extensions)
     - [Project Management](#project-management)
@@ -137,9 +136,6 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - Serve files with Django.
 * [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
-
-## Views & Templates
-* [django-filter] (https://github.com/alex/django-filter) - A generic system for filtering Django QuerySets based on user selections.
 
 ## Forms
 
@@ -288,6 +284,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
 * [django-changuito](https://github.com/angvp/django-changuito/) - A cart app for your django site, an updated fork of django-cart
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
+* [django-filter](https://github.com/alex/django-filter/) - A generic system for filtering Django QuerySets based on user selections.
 * [django-friendship](https://github.com/revsys/django-friendship/) - Django app to manage following and bi-directional friendships.
 * [django-gravatar2](https://github.com/twaddington/django-gravatar/) - Essential Gravatar support for Django. Features helper methods, templatetags and a full test suite!
 * [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
