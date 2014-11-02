@@ -12,7 +12,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Email](#email)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
-v    - [Forms](#forms)
+    - [Forms](#forms)
     - [Migrations](#migrations)
     - [Model Extensions](#model-extensions)
     - [Project Management](#project-management)
