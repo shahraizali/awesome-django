@@ -339,7 +339,7 @@ Where to discover new Django apps and projects.
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
-* [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
+* [The Django book](http://www.djangobook.com/en/2.0/)
 * [Two Scoops of Django: Best Practices for Django 1.6](http://twoscoopspress.org/products/two-scoops-of-django-1-6/) - Making Python and Django as fun as ice cream.
 
 ## Websites
