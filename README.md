@@ -8,6 +8,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [Caching](#caching)
+    - [Compatibility](#compatibility)
     - [Debugging](#debugging)
     - [Email](#email)
     - [Fields](#fields)
@@ -99,6 +100,16 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-ormcache](https://github.com/educreations/django-ormcache/) - A cache manager mixin that provides some caching of objects for the ORM.
 * [johnny-cache](https://github.com/jmoiron/johnny-cache/) - Johnny Cache is a caching framework for django applications.
 * [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+
+
+## Compatibility
+
+*Packages that help to keep compatibility of reusable apps between different Django versions.*
+
+
+* [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for Django 1.4 to 1.7.x.
+* [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
+
 
 ## Debugging
 
