@@ -70,6 +70,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 *Packages that help manage the static assets of a project.*
 
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
+* [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
 * [django-pipeline](https://github.com/cyberdelia/django-pipeline/) - Asset packaging for Django.
 
