@@ -15,6 +15,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [File Transfers](#file-transfers)
     - [Forms](#forms)
     - [Migrations](#migrations)
+    - [Mobile Support](#mobile-support)
     - [Model Extensions](#model-extensions)
     - [Project Management](#project-management)
     - [RESTful API](#restful-api)
@@ -174,6 +175,12 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 *Packages that help migrate the database when there are schema updates.*
 
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations. ([Integrated into Django 1.7 and up](https://docs.djangoproject.com/en/dev/topics/migrations/))
+
+## Mobile Support
+
+*Packages that help you support for mobile iOS, Android and Others*
+
+* [django-push-notifications](https://github.com/jleclanche/django-push-notifications) - A minimal Django app that implements Device models that can send messages through APNS and GCM.
 
 ## Model Extensions
 
