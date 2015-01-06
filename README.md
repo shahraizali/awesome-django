@@ -278,6 +278,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-klingon](https://github.com/RouteAtlas/django-klingon/) - An attempt to make django model translations suckless and with no integrations pain in your app.
 * [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes.
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+* [django-parler](https://github.com/edoburu/django-parler) - Simple Django model translations without nasty hacks
 
 ## Web frontend integration
 
