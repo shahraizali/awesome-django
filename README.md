@@ -318,6 +318,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-recaptcha](https://github.com/praekelt/django-recaptcha/) - Django reCAPTCHA form field/widget integration app.
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
+* [django-watchman](https://github.com/mwarkentin/django-watchman) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [django-magic-embed](https://github.com/fitoria/django-magicembed/tree/master/magicembed) - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
 * [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
