@@ -177,7 +177,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help migrate the database when there are schema updates.*
 
-* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations. ([Integrated into Django 1.7 and up](https://docs.djangoproject.com/en/dev/topics/migrations/))
+* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations that supports Django up to 1.6.x. ([Django 1.7 and up have an integrated migration system, based on but not compatible with South](https://docs.djangoproject.com/en/dev/topics/migrations/))
 
 ## Mobile Support
 
