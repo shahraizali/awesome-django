@@ -324,6 +324,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [django-magic-embed](https://github.com/fitoria/django-magicembed/tree/master/magicembed) - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
 * [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
+* [metamon](http://tryolabs.github.io/metamon/) - Collection of Ansible playbooks to quickly start your Django Application
 
 # Projects
 
