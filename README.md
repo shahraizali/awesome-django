@@ -165,7 +165,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-bootstrap-form](https://github.com/tzangms/django-bootstrap-form/) - Twitter Bootstrap for Django Form
 
 ## RESTful API
- 
+
 *Packages for developing RESTful APIs.*
 
 * [django-nap](http://github.com/funkybob/django-nap/) - A minimalist approach to object serialization, RESTful views, and RPC views.
@@ -337,7 +337,6 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 ## CMS
 
-* [Opps](http://oppsproject.org/) - A content management platform built for large portals.
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
 * [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
