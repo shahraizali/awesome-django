@@ -319,6 +319,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-fsm](https://github.com/kmmbvnr/django-fsm/) - Django friendly finite state machine support.
 * [django-states](https://github.com/vikingco/django-states2/) - State machine for django models.
 * [django-viewflow](https://github.com/kmmbvnr/django-viewflow/) - Reusable workflow library for Django.
+* [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows provides a generic workflow engine for Django.
 * [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
 
 ## Other
@@ -327,6 +328,8 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
 * [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
+* [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
+* [django-autoadmin](https://github.com/rosarior/django-autoadmin/) - Automatic admin users for Django projects.
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
 * [django-changuito](https://github.com/angvp/django-changuito/) - A cart app for your django site, an updated fork of django-cart
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
