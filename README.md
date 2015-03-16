@@ -31,6 +31,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Translations](#translations)
     - [Web frontend integration](#web-frontend-integration)
     - [Wiki apps](#wiki-apps)
+    - [WYSIWYG Editors](#wysiwyg-editors)
     - [Workflows](#workflows)
     - [Other](#other)
 - [Projects](#projects)
@@ -294,6 +295,14 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
 * [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
 * [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
+
+## WYSIWYG Editors
+
+* [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor/) - Django admin CKEditor integration.
+* [django-summernote](https://github.com/summernote/django-summernote/) - Summernote is a simple WYSIWYG editor. django-summernote allows you to embed Summernote into Django very handy. Support admin mixins and widgets.
+* [django-tinymce](https://github.com/aljosa/django-tinymce/) - TinyMCE integration for Django.
+* [django-wysiwyg](https://github.com/pydanny/django-wysiwyg/) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
+* [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor/) - A lightweight wysiwyg editor for Django.
 
 ## Wiki apps
 
