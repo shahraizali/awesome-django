@@ -135,6 +135,8 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [djrill](https://github.com/brack3t/Djrill/) - Email backend and new message class for Mandrill transactional email service from MailChimp.
 * [django-templated-email](https://github.com/BradWhittington/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
 * [django-yubin](https://github.com/APSL/django-yubin) - django-mailer2 + django-mailviews with some extras.
+
+
 ## Fields
 
 *Packages that extend the functionality of existing field type or add new field types.*
