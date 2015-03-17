@@ -230,6 +230,8 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help improve SEO ( Search Engine Optimization ) of projects.*
 
+* [django-seo](https://github.com/willhardy/django-seo/) - Provides a set of tools for managing Search Engine Optimisation (SEO) for Django sites.
+
 ## Settings
 
 *Packages that help manage the configurability of projects.*
