@@ -230,6 +230,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help improve SEO ( Search Engine Optimization ) of projects.*
 
+* [django-meta](https://github.com/nephila/django-meta/) - a pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 * [django-seo](https://github.com/willhardy/django-seo/) - Provides a set of tools for managing Search Engine Optimisation (SEO) for Django sites.
 
 ## Settings
