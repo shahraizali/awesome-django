@@ -131,6 +131,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help manage email sending.*
 
+* [django-celery-email](https://github.com/pmclanahan/django-celery-email/) - A Django email backend that uses a celery task for sending the email.
 * [django-drip](https://github.com/zapier/django-drip) - Django Admin based management for drip email campaigns
 * [django-mailgun](https://github.com/BradWhittington/django-mailgun/) - A Django email backend for Mailgun.
 * [django-post_office](https://github.com/ui/django-post_office/) - A simple app to send and manage your emails in Django, supports templates and can be easily integrated with task queues.
