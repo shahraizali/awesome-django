@@ -21,6 +21,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [RESTful API](#restful-api)
     - [Search](#search)
     - [Security](#security)
+    - [SEO](#seo)
     - [Settings](#settings)
     - [Storage](#storage)
     - [Tagging](#tagging)
@@ -224,6 +225,10 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
 * [django-sslify](https://github.com/rdegges/django-sslify/) - Force SSL on your Django site.
+
+## SEO
+
+*Packages that help improve SEO ( Search Engine Optimization ) of projects.*
 
 ## Settings
 
