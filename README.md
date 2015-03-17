@@ -21,6 +21,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [RESTful API](#restful-api)
     - [Search](#search)
     - [Security](#security)
+    - [SEO](#seo)
     - [Settings](#settings)
     - [Storage](#storage)
     - [Tagging](#tagging)
@@ -130,7 +131,9 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help manage email sending.*
 
+* [django-celery-email](https://github.com/pmclanahan/django-celery-email/) - A Django email backend that uses a celery task for sending the email.
 * [django-drip](https://github.com/zapier/django-drip) - Django Admin based management for drip email campaigns
+* [django-mailgun](https://github.com/BradWhittington/django-mailgun/) - A Django email backend for Mailgun.
 * [django-post_office](https://github.com/ui/django-post_office/) - A simple app to send and manage your emails in Django, supports templates and can be easily integrated with task queues.
 * [django-ses](https://github.com/hmarr/django-ses/) - A Django email backend for Amazon's Simple Email Service.
 * [djrill](https://github.com/brack3t/Djrill/) - Email backend and new message class for Mandrill transactional email service from MailChimp.
@@ -225,6 +228,14 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
 * [django-sslify](https://github.com/rdegges/django-sslify/) - Force SSL on your Django site.
 
+## SEO
+
+*Packages that help improve SEO ( Search Engine Optimization ) of projects.*
+
+* [django-meta](https://github.com/nephila/django-meta/) - a pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
+* [django-seo](https://github.com/willhardy/django-seo/) - Provides a set of tools for managing Search Engine Optimisation (SEO) for Django sites.
+* [django-robots](https://github.com/jezdez/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol.
+
 ## Settings
 
 *Packages that help manage the configurability of projects.*
@@ -299,6 +310,8 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
 
 ## WYSIWYG Editors
+
+*Packages that makes text editing awesome.*
 
 * [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor/) - Django admin CKEditor integration.
 * [django-summernote](https://github.com/summernote/django-summernote/) - Summernote is a simple WYSIWYG editor. django-summernote allows you to embed Summernote into Django very handy. Support admin mixins and widgets.
