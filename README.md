@@ -225,7 +225,6 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 ## Project Management
 
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
-* [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool
 
 ## Search
 
@@ -408,6 +407,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 ## Project Management
 
 * [ITSY](https://github.com/orges/itsy/) - Issue Tracking System
+* [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool
 
 # Resources
 
