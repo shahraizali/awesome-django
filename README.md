@@ -319,6 +319,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes.
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 * [django-parler](https://github.com/edoburu/django-parler) - Simple Django model translations without nasty hacks
+* [django-hvad](https://github.com/KristianOellegaard/django-hvad) - Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.
 
 ## Web frontend integration
 
