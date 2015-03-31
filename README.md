@@ -211,7 +211,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 * [django-treebeard](https://github.com/tabo/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
-* 
+
 ## Payment Processing
 
 *Packages that provide payment processing provider integration.*
