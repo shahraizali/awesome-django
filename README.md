@@ -435,6 +435,7 @@ Where to discover new Django apps and projects.
 * [Django Packages](https://www.djangopackages.com/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 * [Django Sites](https://www.djangosites.org) - Django Sites is a showcase of websites powered by Django.
 * [Full Stack Python's Django page](http://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
+* [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
 
 ## Conferences
 
