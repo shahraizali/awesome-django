@@ -31,6 +31,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Testing](#testing)
     - [Thumbnail](#thumbnail)
     - [Translations](#translations)
+    - [Views](#views)
     - [Web frontend integration](#web-frontend-integration)
     - [Wiki apps](#wiki-apps)
     - [Workflows](#workflows)
@@ -315,6 +316,14 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-parler](https://github.com/edoburu/django-parler) - Simple Django model translations without nasty hacks
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 
+## Views
+
+*Packages that enhance or provide new view classes.*
+
+* [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
+
+
+
 ## Web frontend integration
 
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
@@ -374,6 +383,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-watchman](https://github.com/mwarkentin/django-watchman/) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
 * [metamon](http://tryolabs.github.io/metamon/) - Collection of Ansible playbooks to quickly start your Django Application
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
+* [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
 
 # Projects
 
