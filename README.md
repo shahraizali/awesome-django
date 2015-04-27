@@ -322,8 +322,6 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
 
-
-
 ## Web frontend integration
 
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
@@ -393,6 +391,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS.
 * [django-fiber](https://github.com/ridethepony/django-fiber) - Django Fiber, a simple, user-friendly CMS for all your Django projects
+* [feincms](https://github.com/feincms/feincms/) - A Django-based CMS with a focus on extensibility and concise code.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
 * [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
 
