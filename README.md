@@ -261,6 +261,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-configurations](https://github.com/jezdez/django-configurations/) - A helper for organizing Django project settings by relying on well established programming patterns.
 * [django-constance](https://github.com/jezdez/django-constance/) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 * [python-decouple](https://github.com/henriquebastos/python-decouple/) - Strict separation of config from code.
+* [django-environ](https://github.com/joke2k/django-environ) - Allows you to utilize 12factor inspired environment variables to configure your Django application.
 
 ## Storage
 
