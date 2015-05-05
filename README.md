@@ -411,6 +411,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 ## Other
 
 * [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
+* [django-salted](https://github.com/wunki/django-salted/) - Full stack SaltStack configuration for Django with the help of Vagrant.
 
 ## Project Management
 
