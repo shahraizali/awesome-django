@@ -156,6 +156,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with google maps.
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
 * [django-uuidfield](https://github.com/dcramer/django-uuidfield/) - A UUIDField for Django.
+* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
 ## File Transfers
 
