@@ -270,6 +270,8 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
 * [django-queued-storage](https://github.com/jezdez/django-queued-storage/) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
+* [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage.
+* [django-selectel-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage.
 
 ## Tagging
 
