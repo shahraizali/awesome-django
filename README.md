@@ -49,6 +49,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Conferences](#conferences)
     - [Videos](#videos)
     - [Websites](#websites)
+- [Utilities](#utilities)
 - [Contributing](#contributing)
 
 ## Admin interface
