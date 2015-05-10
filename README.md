@@ -470,6 +470,12 @@ Where to discover new Django apps and projects.
 * [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
 * [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
 
+# Utilities
+
+*Non Django projects that make it easier to work with Django*
+
+* [Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere/) - Run manage.py commands from anywhere. Finds closest to current path manage.py file and runs commands against it.
+
 # Contributing
 
 Just fork and send a pull request with your awesome Django apps, projects or resources.
