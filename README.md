@@ -441,6 +441,7 @@ Where to discover new Django apps and projects.
 
 * [Two Scoops of Django: Best Practices for Django 1.8](http://twoscoopspress.org/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
 * [High Performance Django](highperformancedjango.com) (1.7) - Deploying fast, scalable Django sites.
+* [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do) (1.7) - Using REST, WebSockets, and Backbone with Django
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/) (< 1.7)
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
