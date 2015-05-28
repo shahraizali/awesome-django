@@ -9,6 +9,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Authorization](#authorization)
     - [Caching](#caching)
     - [Compatibility](#compatibility)
+    - [Database](#database)
     - [Debugging](#debugging)
     - [Email](#email)
     - [Fields](#fields)
@@ -120,6 +121,14 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for Django 1.4 to 1.7.x.
 * [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
+
+## Database
+
+*Packages that add support for 3rd party databases or database specific features.*
+
+* [django-postgrespool](https://github.com/kennethreitz/django-postgrespool/) - Postgres Connection Pooling for Django, powered by SQLAlchemy.
+* [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Use Database URLs in your Django Application.
+* [django-mysql](https://github.com/adamchainz/django-mysql/) - Extensions to Django for use with MySQL/MariaDB.
 
 ## Debugging
 
