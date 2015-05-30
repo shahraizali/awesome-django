@@ -11,7 +11,6 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Compatibility](#compatibility)
     - [Database](#database)
     - [Debugging](#debugging)
-    - [External documentation](#external-documentation)
     - [Email](#email)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
@@ -49,6 +48,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 - [Resources](#resources)
     - [Books](#books)
     - [Conferences](#conferences)
+    - [External documentation](#external-documentation)
     - [Videos](#videos)
     - [Websites](#websites)
 - [Utilities](#utilities)
@@ -462,12 +462,6 @@ Where to discover new Django apps and projects.
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
 
-## External documentation
-
-*Additional sources of information about django features.*
-
-* [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
-
 ## Websites
 
 * [Django Girls Tutorial](http://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
@@ -484,6 +478,12 @@ Where to discover new Django apps and projects.
 * [Django: Under The Hood](http://www.djangounderthehood.com/) - is an exciting new Django conference for experienced Django developers. Come and learn about the internals of Django, and help to shape its future.
 * [DjangoCon Europe](http://www.djangocon.eu/) - is the annual largest European-based Django conference that is usually held in late spring.
 * [DjangoCon US](http://www.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
+
+## External documentation
+
+*Additional sources of information about django features.*
+
+* [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
 
 ## Videos
 
