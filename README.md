@@ -11,6 +11,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Compatibility](#compatibility)
     - [Database](#database)
     - [Debugging](#debugging)
+    - [External documentation](#external-documentation)
     - [Email](#email)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
@@ -460,6 +461,12 @@ Where to discover new Django apps and projects.
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
+
+## External documentation
+
+*Additional sources of information about django features.*
+
+* [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
 
 ## Websites
 
