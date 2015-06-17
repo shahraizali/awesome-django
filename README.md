@@ -425,6 +425,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [feincms](https://github.com/feincms/feincms/) - A Django-based CMS with a focus on extensibility and concise code.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
 * [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
+* [leonardo](https://github.com/django-leonardo/django-leonardo/) - A new Django content management system built on top of FeinCMS and OpenStack Horizon.
 
 ## Document Management
 
