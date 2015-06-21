@@ -325,6 +325,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
+* [django-test-plus](https://github.com/revsys/django-test-plus) - Useful addons to Django's default TestCase that greatly reduces boilerplate code
 
 ## Thumbnail
 
