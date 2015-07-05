@@ -417,6 +417,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
+* [django-mmc](https://github.com/LPgenerator/django-mmc) - App for monitoring management commands on Django..
 
 # Projects
 
