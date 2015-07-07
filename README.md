@@ -300,6 +300,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 ## Tagging
 
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
+* [django-taggit-helpers](https://github.com/mfcovington/django-taggit-helpers) - Django admin helper classes for django-taggit tags.
 
 ## Task Queue
 
