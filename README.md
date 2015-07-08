@@ -309,6 +309,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django. (no longer required for Celery 3.1 and up)
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 * [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
+* [django-q](https://github.com/Koed00/django-q) - A native multiprocessing task queue for Django.
 
 ## Testing
 
