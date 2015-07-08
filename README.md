@@ -140,6 +140,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
 * [django-silk](https://github.com/mtford90/silk/) - Silky smooth profiling for Django
+* [nplusone](https://github.com/jmcarp/nplusone/) - Auto-detecting the n+1 queries problem in Django (and other ORMs)
 
 ## Email
 
