@@ -146,6 +146,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 *Packages that help manage email sending.*
 
+* [django-db-mailer](https://github.com/LPgenerator/django-db-mailer/) - Django module to easily send email/sms/push/tts using django templates stored on database and managed through the Django Admin.
 * [django-celery-email](https://github.com/pmclanahan/django-celery-email/) - A Django email backend that uses a celery task for sending the email.
 * [django-drip](https://github.com/zapier/django-drip) - Django Admin based management for drip email campaigns
 * [django-mailgun](https://github.com/BradWhittington/django-mailgun/) - A Django email backend for Mailgun.
@@ -269,6 +270,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
 * [django-sslify](https://github.com/rdegges/django-sslify/) - Force SSL on your Django site.
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
+* [django-secure-auth](https://github.com/gotlium/django-secure-auth) - Secure authentication by TOTP, SMS, Codes & Question. Login protection with ban by IP and captcha.
 
 ## SEO
 
@@ -417,6 +419,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
+* [django-mmc](https://github.com/LPgenerator/django-mmc) - App for monitoring management commands on Django..
 
 # Projects
 
