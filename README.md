@@ -357,6 +357,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 *Packages that enhance or provide new view classes.*
 
 * [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
+* [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views/) - Beautifully simple class-based views.
 
 ## Web frontend integration
 
