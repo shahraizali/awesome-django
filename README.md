@@ -2,6 +2,8 @@
 
 A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
 
+Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
+
 - [Awesome Django](#awesome-django)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
