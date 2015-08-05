@@ -9,6 +9,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Asset Management](#asset-management)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
+    - [Boilerplate](#boilerplate)
     - [Caching](#caching)
     - [Compatibility](#compatibility)
     - [Database](#database)
@@ -107,6 +108,13 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-oml](https://github.com/angvp/django-oml/) - Object Moderation Layer, mixin for models that allows you moderate several content types.
 * [django-permission](https://github.com/lambdalisue/django-permission/) An enhanced permission library which enables a *logic-based permission system* to handle complex permissions in Django
 * [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. At its core, it is a generic framework for building rule-based systems, similar to decision trees. It can also be used as a standalone library in other contexts and frameworks.
+
+## Boilerplate
+
+* Packages related to smart a new project starting.*
+
+* [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
+* [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 
 ## Caching
 
@@ -395,7 +403,6 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Other
 
-* [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
 * [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Utilize the 12factor inspired DATABASE_URL environment variable to configure your Django application.
 * [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
