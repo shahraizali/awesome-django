@@ -84,6 +84,8 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
 * [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
 * [django-pipeline](https://github.com/cyberdelia/django-pipeline/) - Asset packaging for Django.
+* [django-webpack-loader](https://github.com/owais/django-webpack-loader/) - Transparent webpack integration for django.
+* [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration.
 
 ## Authentication
 
