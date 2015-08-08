@@ -329,6 +329,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages that help test code or generate test data.*
 
+* [hitchtest](http://hitchtest.com/) - High level integration testing framework for Django.
 * [django-behave](https://github.com/django-behave/django-behave/) - TestRunner for the Behave BDD module.
 * [django-faker](https://github.com/joke2k/django-faker/) - Fake-factory to generate test data.
 * [django-dynamic-fixture](https://github.com/paulocheque/django-dynamic-fixture) - A complete library to create dynamic model instances for testing purposes.
