@@ -1,5 +1,7 @@
 # <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
 
+This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. This repository will be removed once all tickets are closed.
+
 A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
