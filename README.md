@@ -511,6 +511,10 @@ Where to discover new Django apps and projects.
 * [DjangoCon Europe](http://www.djangocon.eu/) - is the annual largest European-based Django conference that is usually held in late spring.
 * [DjangoCon US](http://www.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
 
+# Non Python packages
+
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A cookiecutter template for creating Django projects quickly.
+
 ## External documentation
 
 *Additional sources of information about django features.*
