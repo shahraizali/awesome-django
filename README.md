@@ -443,6 +443,7 @@ phone numbers.
 * [django-ratelimit](https://github.com/jsocol/django-ratelimit/) - provides a decorator to rate-limit views. Limiting can be based on IP address or a field in the request--either a GET or POST variable.
 * [django-uuslug](https://github.com/un33k/django-uuslug/) - a slugify application that guarantees Uniqueness and handles Unicode.
 * [django-watchman](https://github.com/mwarkentin/django-watchman/) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
+* [django-websocket-redis](https://github.com/jrief/django-websocket-redis) - Websockets for Django applications using Redis as message queue.
 * [metamon](http://tryolabs.github.io/metamon/) - Collection of Ansible playbooks to quickly start your Django Application
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
