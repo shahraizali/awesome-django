@@ -8,6 +8,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 - [Awesome Django](#awesome-django)
     - [Admin Interface](#admin-interface)
+    - [Analytics](#analytics)
     - [Asset Management](#asset-management)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -78,6 +79,12 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
 * [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress look and feel for Django administration panel.
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django
+
+## Analytics
+
+*Packages that do web analytics or integrate web analytics services.*
+
+* [django-analytical](https://github.com/jcassee/django-analytical) - Integrates analytics services with a generic interface, templates stay clean.
 
 ## Asset Management
 
