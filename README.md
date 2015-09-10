@@ -420,6 +420,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-viewflow](https://github.com/kmmbvnr/django-viewflow/) - Reusable workflow library for Django.
 * [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows provides a generic workflow engine for Django.
 * [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
+* [django-river](https://github.com/javrasya/django-river/) - Django state machine and workflow library provides on the fly changes.
 
 ## Other
 
