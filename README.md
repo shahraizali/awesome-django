@@ -289,6 +289,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
 * [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
+* [djorm-ext-pgfulltext](https://github.com/linuxlewis/djorm-ext-pgfulltext) - PostgreSQL full-text search integration with django orm.
 
 ## Security
 
