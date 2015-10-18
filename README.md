@@ -123,7 +123,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Boilerplate
 
-* Packages related to smart a new project starting.*
+*Packages related to smart a new project starting.*
 
 * [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
@@ -149,7 +149,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Data sciences
 
-*Packages that make it easier to work with large volumes of data
+*Packages that make it easier to work with large volumes of data.*
 
 * [rest-pandas](https://github.com/wq/django-rest-pandas/) - Serves up your Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
 
@@ -208,7 +208,7 @@ phone numbers.
 
 ## File Transfers
 
-*Packages that help transfer files between projects and users*
+*Packages that help transfer files between projects and users.*
 
 * [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - Serve files with Django.
 * [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
@@ -254,7 +254,7 @@ phone numbers.
 
 ## Mobile Support
 
-*Packages that help you support for mobile iOS, Android and Others*
+*Packages that help you support for mobile iOS, Android and Others.*
 
 * [django-push-notifications](https://github.com/jleclanche/django-push-notifications) - A minimal Django app that implements Device models that can send messages through APNS and GCM.
 * [django-pushy](https://github.com/rakanalh/django-pushy) - Django app that provides push notifications functionality with celery. The main purpose of this app is to help you send push notifications to your users at scale. If you have lots of registered device keys, django-pushy will split your keys into smaller groups which run in parallel making the process of sending notifications faster.
@@ -500,7 +500,7 @@ phone numbers.
 
 # Resources
 
-Where to discover new Django apps and projects.
+*Where to discover new Django apps and projects.*
 
 ## Books
 
@@ -551,7 +551,7 @@ Where to discover new Django apps and projects.
 
 # Utilities
 
-*Non Django projects that make it easier to work with Django*
+*Non Django projects that make it easier to work with Django.*
 
 * [Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere/) - Run manage.py commands from anywhere. Finds closest to current path manage.py file and runs commands against it.
 
