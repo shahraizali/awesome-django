@@ -12,6 +12,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Asset Management](#asset-management)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
+    - [Blog Management](#blog-management)
     - [Boilerplate](#boilerplate)
     - [Caching](#caching)
     - [Compatibility](#compatibility)
@@ -120,6 +121,14 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-oml](https://github.com/angvp/django-oml/) - Object Moderation Layer, mixin for models that allows you moderate several content types.
 * [django-permission](https://github.com/lambdalisue/django-permission/) An enhanced permission library which enables a *logic-based permission system* to handle complex permissions in Django
 * [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. At its core, it is a generic framework for building rule-based systems, similar to decision trees. It can also be used as a standalone library in other contexts and frameworks.
+
+## Blog Management
+
+*Packages to build and manage a blog app.*
+
+* [puput](https://github.com/APSL/puput) - A Django blog app implemented in Wagtail.
+* [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) -  Simple yet powerful and really extendable application for managing a blog within your Django Web site.
+
 
 ## Boilerplate
 
