@@ -476,6 +476,7 @@ phone numbers.
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 * [django-mmc](https://github.com/LPgenerator/django-mmc) - App for monitoring management commands on Django..
 * [django-overextends](https://github.com/stephenmcd/django-overextends) - Circular template inheritance for Django.
+* [django-dfp](https://github.com/praekelt/django-dfp) - App that provides tags to fetch Google DFP ads.
 
 # Projects
 
