@@ -259,6 +259,7 @@ phone numbers.
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
+* [django-rest-localflavor](https://github.com/hackultura/django-rest-localflavor/) - Localized flavors of some serializers to use with Django Rest Framework.
 
 ## Migrations
 
