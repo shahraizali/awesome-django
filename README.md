@@ -381,6 +381,7 @@ phone numbers.
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
 * [django-shotgun](https://github.com/stephenmcd/django-shotgun) - Test entire Django sites.
+* [behave-django](https://github.com/mixxorz/behave-django) - Behave BDD integration for Django
 
 ## Thumbnail
 
