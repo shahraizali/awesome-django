@@ -249,6 +249,7 @@ phone numbers.
 *Packages that help to manipulate, alter, or convert images.*
 
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
+* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
 ## RESTful API
 
@@ -390,6 +391,7 @@ phone numbers.
 *Packages that help generate thumbnails.*
 
 * [django-stdimage](https://github.com/codingjoe/django-stdimage/) - Thumbnails and image utils for Django.
+* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 * [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 
