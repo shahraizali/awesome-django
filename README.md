@@ -82,6 +82,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
 * [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress look and feel for Django administration panel.
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django
+* [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators.
 
 ## Analytics
 
@@ -503,6 +504,7 @@ phone numbers.
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
 * [django-oscar](https://github.com/tangentlabs/django-oscar/) - Domain-driven e-commerce for Django.
 * [Cartridge](https://github.com/stephenmcd/cartridge) - Ecommerce for Django/Mezzanine.
+* [Lighting Fas Shop](http://www.getlfs.com/) - Lighting Fas Shop is Ecommerce made with Django.
 
 ## Other
 
