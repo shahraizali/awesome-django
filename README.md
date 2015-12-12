@@ -254,6 +254,10 @@ phone numbers.
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
 * [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
+## Import/Export
+
+*Packages that load, import or export data from a project.*
+
 ## RESTful API
 
 *Packages for developing RESTful APIs.*
