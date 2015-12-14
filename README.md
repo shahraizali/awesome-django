@@ -16,6 +16,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Boilerplate](#boilerplate)
     - [Caching](#caching)
     - [Compatibility](#compatibility)
+    - [Dashboards](#dashboards)
     - [Data Sciences](#data-sciences)
     - [Database](#database)
     - [Debugging](#debugging)
@@ -161,6 +162,12 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 * [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for the officially  supported Django versions.
 * [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
+
+## Dashboards
+
+*Packages that create information dashboards to visualize data.*
+
+* [django-dashing](https://github.com/talpor/django-dashing/) - a customisable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the exceptionally handsome dashboard framework Dashing.
 
 ## Data sciences
 
