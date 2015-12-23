@@ -577,6 +577,7 @@ phone numbers.
 *Additional sources of information about django features.*
 
 * [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
+* [Classy Django REST Framework](http://www.cdrf.co/) - Detailed descriptions, with full methods and attributes, for each of Django REST Framework's class-based views and serializers.
 
 ## Videos
 
