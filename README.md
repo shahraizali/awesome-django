@@ -102,7 +102,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
 * [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
-* [django-pipeline](https://github.com/cyberdelia/django-pipeline/) - Asset packaging for Django.
+* [django-pipeline](https://github.com/jazzband/django-pipeline) - Asset packaging for Django.
 * [django-systemjs](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM intergration in Django)
 * [django-webpack-loader](https://github.com/owais/django-webpack-loader/) - Transparent webpack integration for django.
 * [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration.
@@ -193,7 +193,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
 * [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
-* [django-silk](https://github.com/mtford90/silk/) - Silky smooth profiling for Django
+* [django-silk](https://github.com/django-silk/silk) - Silky smooth profiling for Django
 * [nplusone](https://github.com/jmcarp/nplusone/) - Auto-detecting the n+1 queries problem in Django (and other ORMs)
 * [sentry](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform.
 
@@ -226,7 +226,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django.
 * [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - JSONField for Django models.
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with google maps.
-* [django-macaddress](https://github.com/tubaman/django-macaddress) - MAC Address model and form fields for Django.
+* [django-macaddress](https://github.com/django-macaddress/django-macaddress) - MAC Address model and form fields for Django.
 * [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field/) - A Django library which interfaces with [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) to validate, pretty print and convert
 phone numbers.
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
@@ -346,15 +346,15 @@ phone numbers.
 *Packages that help improve SEO ( Search Engine Optimization ) of projects.*
 
 * [django-meta](https://github.com/nephila/django-meta/) - a pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
-* [django-robots](https://github.com/jezdez/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol.
+* [django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol.
 * [django-seo](https://github.com/willhardy/django-seo/) - Provides a set of tools for managing Search Engine Optimisation (SEO) for Django sites.
 
 ## Settings
 
 *Packages that help manage the configurability of projects.*
 
-* [django-configurations](https://github.com/jezdez/django-configurations/) - A helper for organizing Django project settings by relying on well established programming patterns.
-* [django-constance](https://github.com/jezdez/django-constance/) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
+* [django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
+* [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 * [python-decouple](https://github.com/henriquebastos/python-decouple/) - Strict separation of config from code.
 * [django-environ](https://github.com/joke2k/django-environ) - Allows you to utilize 12factor inspired environment variables to configure your Django application.
 * [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
@@ -365,7 +365,7 @@ phone numbers.
 
 * [django-selectel-storage](https://github.com/marazmiki/django-selectel-storage) - This application allows you easily save media and static files into [Selectel](https://selectel.ru/) cloud storage.
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
-* [django-queued-storage](https://github.com/jezdez/django-queued-storage/) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
+* [django-queued-storage](https://github.com/jazzband/django-queued-storage) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
 * [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage.
 
 ## Tagging
@@ -551,7 +551,7 @@ phone numbers.
 * [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do) (1.7) - Using REST, WebSockets, and Backbone with Django
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
-* [Two Scoops of Django: Best Practices for Django 1.8](http://twoscoopspress.org/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
+* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
 
 ## Websites
 
