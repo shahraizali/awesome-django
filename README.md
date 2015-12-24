@@ -1,5 +1,7 @@
 # <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Build Status](https://travis-ci.org/rosarior/awesome-django.svg)](https://travis-ci.org/rosarior/awesome-django)
+
 This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. This repository will be removed once all tickets are closed.
 
 A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
