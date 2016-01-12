@@ -522,7 +522,9 @@ phone numbers.
 * [Cartridge](https://github.com/stephenmcd/cartridge) - Ecommerce for Django/Mezzanine.
 * [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
 * [Lighting Fas Shop](http://www.getlfs.com/) - Lighting Fas Shop is Ecommerce made with Django.
-* [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
+* [Saleor](http://getsaleor.com) - An e-commerce storefront for Python and Django.
+* [Satchless](http://satchless.com) - Satchless brings e-commerce and Python together.
+* [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework creatde in Django which allows you to develop unique and robust online stores.
 
 ## Other
 
