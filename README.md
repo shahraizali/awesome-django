@@ -601,3 +601,4 @@ phone numbers.
 # Contributing
 
 Just fork and send a pull request with your awesome Django apps, projects or resources.
+By contributing you agree to abide by the Code of Merit.
