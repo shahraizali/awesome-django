@@ -489,7 +489,7 @@ phone numbers.
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 * [django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve user's IP address.
 * [django-magic-embed](https://github.com/kronoscode/django-magicembed) - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
-* [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
+* [django-markitup](https://github.com/zsiciarz/django-markitup) - A Django reusable application for end-to-end markup handling.
 * [django-mmc](https://github.com/LPgenerator/django-mmc) - App for monitoring management commands on Django..
 * [django-overextends](https://github.com/stephenmcd/django-overextends) - Circular template inheritance for Django.
 * [django-pagination](https://github.com/ericflo/django-pagination) - https://github.com/ericflo/django-pagination.
@@ -550,8 +550,7 @@ phone numbers.
 
 ## Books
 
-* [Django by Example](http://www.lightbird.net/dbe/) (1.2)
-* [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
+* [Django by Example](https://github.com/kevinlondon/django-by-example) (1.2)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/) (< 1.7)
 * [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
@@ -571,9 +570,9 @@ phone numbers.
 
 ## Conferences
 
-* [Django Beer](http://www.djangobeer.com/) - the new meeting of the Django community of Florence.
+* [Django Beer](https://www.djangobeer.com/) - the new meeting of the Django community of Florence.
 * [Django Village](http://djangovillage.it/) - the Italian Django community conference. An opportunity to meet djangonauts from all over Italy and abroad.
-* [Django Weekend](http://djangoweekend.org/) - is a Django/Python non-profit community event, organised and run entirely by volunteers. The conference is Django-focused, but all aspects of Python fall within its remit.
+* [Django Weekend](https://twitter.com/djangoweekend) - is a Django/Python non-profit community event, organised and run entirely by volunteers. The conference is Django-focused, but all aspects of Python fall within its remit.
 * [Django: Under The Hood](http://www.djangounderthehood.com/) - is an exciting new Django conference for experienced Django developers. Come and learn about the internals of Django, and help to shape its future.
 * [DjangoCon Europe](http://www.djangocon.eu/) - is the annual largest European-based Django conference that is usually held in late spring.
 * [DjangoCon US](http://www.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
