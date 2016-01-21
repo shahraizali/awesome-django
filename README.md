@@ -570,7 +570,7 @@ phone numbers.
 
 ## Conferences
 
-* [Django Beer](http://www.djangobeer.com/) - the new meeting of the Django community of Florence.
+* [Django Beer](https://www.djangobeer.com/) - the new meeting of the Django community of Florence.
 * [Django Village](http://djangovillage.it/) - the Italian Django community conference. An opportunity to meet djangonauts from all over Italy and abroad.
 * [Django Weekend](https://twitter.com/djangoweekend) - is a Django/Python non-profit community event, organised and run entirely by volunteers. The conference is Django-focused, but all aspects of Python fall within its remit.
 * [Django: Under The Hood](http://www.djangounderthehood.com/) - is an exciting new Django conference for experienced Django developers. Come and learn about the internals of Django, and help to shape its future.
