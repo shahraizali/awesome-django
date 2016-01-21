@@ -257,6 +257,7 @@ phone numbers.
 
 * [django-geoposition](https://github.com/philippbosch/django-geoposition/) - A model field that can hold a geoposition (latitude/longitude), and corresponding admin/form widget.
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with Google Maps.
+* [django-spillway](https://github.com/bkg/django-spillway/) -  Geodata extensions for Django REST Framework.
 
 ## Image handling
 
