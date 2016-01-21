@@ -550,8 +550,7 @@ phone numbers.
 
 ## Books
 
-* [Django by Example](http://www.lightbird.net/dbe/) (1.2)
-* [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
+* [Django by Example](https://github.com/kevinlondon/django-by-example) (1.2)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/) (< 1.7)
 * [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
