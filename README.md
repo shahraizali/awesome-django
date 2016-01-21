@@ -489,7 +489,7 @@ phone numbers.
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 * [django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve user's IP address.
 * [django-magic-embed](https://github.com/kronoscode/django-magicembed) - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
-* [django-markitup](https://bitbucket.org/carljm/django-markitup/src/) - A Django reusable application for end-to-end markup handling.
+* [django-markitup](https://github.com/zsiciarz/django-markitup) - A Django reusable application for end-to-end markup handling.
 * [django-mmc](https://github.com/LPgenerator/django-mmc) - App for monitoring management commands on Django..
 * [django-overextends](https://github.com/stephenmcd/django-overextends) - Circular template inheritance for Django.
 * [django-pagination](https://github.com/ericflo/django-pagination) - https://github.com/ericflo/django-pagination.
