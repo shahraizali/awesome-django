@@ -315,6 +315,7 @@ phone numbers.
 *Packages for creating reports*
 
 * [django-model-report](https://github.com/juanpex/django-model-report/) - Django reports integrated with highcharts. 
+* [django-report-builder](https://github.com/burke-software/django-report-builder/) - A GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.
 
 ## RESTful API
 
