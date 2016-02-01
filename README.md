@@ -34,6 +34,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Model Extensions](#model-extensions)
     - [Payment Processing](#payment-processing)
     - [Project Management](#project-management)
+    - [Reporting](#reporting)
     - [RESTful API](#restful-api)
     - [SEO](#seo)
     - [Search](#search)
@@ -309,6 +310,11 @@ phone numbers.
 ## Project Management
 
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
+
+## Reporting
+*Packages for creating reports*
+
+* [django-model-report](https://github.com/juanpex/django-model-report/) - Django reports integrated with highcharts. 
 
 ## RESTful API
 
