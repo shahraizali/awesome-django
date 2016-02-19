@@ -270,7 +270,7 @@ phone numbers.
 
 ## Import/Export
 
-*Packages that load, import or export data from a project.*
+* [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 
 ## Migrations
 
