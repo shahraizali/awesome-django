@@ -400,7 +400,7 @@ phone numbers.
 
 *Packages that help test code or generate test data.*
 
-* [behave-django](https://github.com/mixxorz/behave-django) - Behave BDD integration for Django
+* [behave-django](https://github.com/behave/behave-django) - Behave BDD integration for Django
 * [django-behave](https://github.com/django-behave/django-behave/) - TestRunner for the Behave BDD module.
 * [django-dynamic-fixture](https://github.com/paulocheque/django-dynamic-fixture) - A complete library to create dynamic model instances for testing purposes.
 * [django-faker](https://github.com/joke2k/django-faker/) - Fake-factory to generate test data.
