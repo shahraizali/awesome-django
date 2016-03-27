@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/rosarior/awesome-django.svg)](https://travis-ci.org/rosarior/awesome-django)
 
-This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. This repository will be removed once all tickets are closed.
+This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. The GitHub repository will be removed once all tickets are closed.
 
 A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
 
