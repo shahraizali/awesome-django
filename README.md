@@ -77,7 +77,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators.
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - The ultimate admin interface, based on a modern flat theme, it lets you customize the admin title, logo and colors by the admin itself.
 * [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - A collection of extensions/tools for the default django administration interface
-* [django-admin2](https://github.com/pydanny/django-admin2/) - Extendable, adaptable rewrite of django.contrib.admin
+* [django-admin2](https://github.com/jazzband/django-admin2/) - Extendable, adaptable rewrite of django.contrib.admin
 * [django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
 * [django-fluent-dashboard](https://github.com/django-fluent/django-fluent-dashboard) - An improved django-admin-tools dashboard for Django projects
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
@@ -266,7 +266,7 @@ phone numbers.
 *Packages that help to manipulate, alter, or convert images.*
 
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
-* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
+* [django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
 ## Import/Export
 
@@ -424,7 +424,7 @@ phone numbers.
 *Packages that help generate thumbnails.*
 
 * [django-stdimage](https://github.com/codingjoe/django-stdimage/) - Thumbnails and image utils for Django.
-* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
+* [django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 * [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 
@@ -575,7 +575,7 @@ phone numbers.
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
 * [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
-* [Django Packages](https://www.djangopackages.org/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
+* [Django Packages](https://djangopackages.org/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 * [Django Sites](https://www.djangosites.org) - Django Sites is a showcase of websites powered by Django.
 * [Full Stack Python's Django page](http://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
 
@@ -586,7 +586,7 @@ phone numbers.
 * [Django Weekend](https://twitter.com/djangoweekend) - is a Django/Python non-profit community event, organised and run entirely by volunteers. The conference is Django-focused, but all aspects of Python fall within its remit.
 * [Django: Under The Hood](https://www.djangounderthehood.com/) - is an exciting new Django conference for experienced Django developers. Come and learn about the internals of Django, and help to shape its future.
 * [DjangoCon Europe](http://www.djangocon.eu/) - is the annual largest European-based Django conference that is usually held in late spring.
-* [DjangoCon US](https://www.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
+* [DjangoCon US](https://2016.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
 
 # Non Python packages
 
