@@ -451,6 +451,8 @@ phone numbers.
 
 ## Web frontend integration
 
+*Packages for integrating and managing front-end packages.*
+
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
 * [django-bower](https://github.com/nvbn/django-bower) - Easy way to use [bower](http://bower.io) with your Django project.
 * [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
