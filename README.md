@@ -466,7 +466,9 @@ phone numbers.
 * [django-wysiwyg](https://github.com/pydanny/django-wysiwyg/) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
 * [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor/) - A lightweight wysiwyg editor for Django.
 
-## Wiki apps
+## Wikis
+
+*Packages for adding wiki functionality to a project.*
 
 * [django-wiki](https://github.com/django-wiki/django-wiki) A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 * [waliki](https://github.com/mgaitan/waliki) An extensible wiki app for Django with a Git backend.
