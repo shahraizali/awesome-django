@@ -310,6 +310,8 @@ phone numbers.
 
 ## Project Management
 
+*Packages for project management and time-tracking.*
+
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
 
 ## Reporting
