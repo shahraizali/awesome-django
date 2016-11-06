@@ -141,7 +141,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Boilerplate
 
-*Packages related to smart a new project starting.*
+*Packages related to starting a new project.*
 
 * [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
@@ -312,6 +312,8 @@ phone numbers.
 
 ## Project Management
 
+*Packages for project management and time-tracking.*
+
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
 
 ## Reporting
@@ -385,6 +387,8 @@ phone numbers.
 
 ## Tagging
 
+*Packages for adding tags to Django models.*
+
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
 * [django-taggit-helpers](https://github.com/mfcovington/django-taggit-helpers) - Django admin helper classes for django-taggit tags.
 
@@ -448,6 +452,8 @@ phone numbers.
 
 ## Web frontend integration
 
+*Packages for integrating and managing front-end packages.*
+
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
 * [django-bower](https://github.com/nvbn/django-bower) - Easy way to use [bower](https://bower.io) with your Django project.
 * [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
@@ -463,7 +469,9 @@ phone numbers.
 * [django-wysiwyg](https://github.com/pydanny-archive/django-wysiwyg/) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
 * [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor/) - A lightweight wysiwyg editor for Django.
 
-## Wiki apps
+## Wikis
+
+*Packages for adding wiki functionality to a project.*
 
 * [django-wiki](https://github.com/django-wiki/django-wiki) A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 * [waliki](https://github.com/mgaitan/waliki) An extensible wiki app for Django with a Git backend.
@@ -481,6 +489,8 @@ phone numbers.
 * [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
 
 ## Other
+
+*Other awesome Django packages.*
 
 * [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
