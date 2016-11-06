@@ -349,7 +349,6 @@ phone numbers.
 * [django-axes](https://github.com/django-pci/django-axes/) - is a very simple way for you to keep track of failed login attempts, both for the Django admin and for the rest of your site.
 * [django-debreach](https://github.com/lpomfrey/django-debreach/) - BREACH mitigation for Django apps.
 * [django-password-session](https://github.com/atugushev/django-password-session/) - Invalidate all active sessions after change password ([not needed for Django 1.7+](https://docs.djangoproject.com/en/dev/topics/auth/default/#session-invalidation-on-password-change)).
-* [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
 * [django-secure-auth](https://github.com/gotlium/django-secure-auth) - Secure authentication by TOTP, SMS, Codes & Question. Login protection with ban by IP and captcha.
 * [django-security](https://github.com/sdelements/django-security/) - A collection of models, views, middlewares, and forms to help secure a Django project.
 * [django-sslify](https://github.com/rdegges/django-sslify/) - Force SSL on your Django site.
