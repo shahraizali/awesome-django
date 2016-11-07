@@ -319,7 +319,7 @@ phone numbers.
 ## Reporting
 *Packages for creating reports*
 
-* [django-model-report](https://github.com/juanpex/django-model-report/) - Django reports integrated with highcharts. 
+* [django-model-report](https://github.com/juanpex/django-model-report/) - Django reports integrated with highcharts.
 * [django-report-builder](https://github.com/burke-software/django-report-builder/) - A GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.
 
 ## RESTful API
@@ -589,6 +589,7 @@ phone numbers.
 * [Django Packages](https://djangopackages.org/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 * [Django Sites](https://www.djangosites.org) - Django Sites is a showcase of websites powered by Django.
 * [Full Stack Python's Django page](https://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com) - A blog about Django, Python and Web Development. Weekly updates containing tutorials, tips, featured packages, reference guides and code snippets.
 
 ## Conferences
 
@@ -613,7 +614,7 @@ phone numbers.
 ## Videos
 
 * [CodingforEntrepreneur](https://www.codingforentrepreneurs.com/projects/) - One of the best collection of Django Videos and all the projects are written in Django.
-* [Code School - Try Django](https://www.codeschool.com/courses/try-django) - An introduction to the basics of Django. 
+* [Code School - Try Django](https://www.codeschool.com/courses/try-django) - An introduction to the basics of Django.
 * [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
 * [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
 * [One Month Django](https://onemonth.com) - The video series will teach you Django in one month
