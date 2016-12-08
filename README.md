@@ -32,6 +32,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Migrations](#migrations)
     - [Mobile Support](#mobile-support)
     - [Model Extensions](#model-extensions)
+    - [Multitenancy](#multitenancy)
     - [Payment Processing](#payment-processing)
     - [Project Management](#project-management)
     - [Reporting](#reporting)
@@ -298,6 +299,12 @@ phone numbers.
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 * [django-treebeard](https://github.com/tabo/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
+
+## Multitenancy
+
+*Packages that allow a single install of Django to serve multiple organizations.*
+
+* [django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas/) - Tenant support for Django using PostgreSQL schemas.
 
 ## Payment Processing
 
