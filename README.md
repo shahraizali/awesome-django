@@ -1,10 +1,17 @@
-# <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
 
 [![Build Status](https://travis-ci.org/rosarior/awesome-django.svg)](https://travis-ci.org/rosarior/awesome-django)
 
 This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. The GitHub repository will be removed once all tickets are closed.
 
-A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
+A curated list of awesome Django apps, projects and resources.
+
+*Q: What is an awesome Django package?*
+
+**A: An awesome package is one that is mature (not recently released), is well
+maintained, has a good amount of users, has good documentation, follows the best
+practices, and which latest release is less than 1 year old. Awesome Django packages
+and projects are the ones that inspire and serve as examples.**
 
 Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
