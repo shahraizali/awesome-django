@@ -243,6 +243,7 @@ phone numbers.
 
 * [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - Serve files with Django.
 * [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
+* [django-filer](https://github.com/divio/django-filer/) - Makes multiple files(text/image) uploading easy and provides interface with precise details.
 
 ## Forms
 
