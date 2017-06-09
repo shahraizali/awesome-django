@@ -148,6 +148,8 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) -  Simple yet powerful and really extendable application for managing a blog within your Django Web site.
 * [puput](https://github.com/APSL/puput) - A Django blog app implemented in Wagtail.
 
+* [django-blog-it](https://github.com/MicroPyramid/django-blog-it) - complete customizable and ready to use blog with one click installer.
+
 ## Boilerplate
 
 *Packages related to starting a new project.*
