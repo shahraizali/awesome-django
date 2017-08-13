@@ -1,5 +1,7 @@
 # <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
 
+[![Build status](https://gitlab.com/rosarior/awesome-django/badges/master/build.svg)](https://gitlab.com/rosarior/awesome-django/commits/master)
+
 [![Build Status](https://travis-ci.org/rosarior/awesome-django.svg)](https://travis-ci.org/rosarior/awesome-django)
 
 This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. The GitHub repository will be removed once all tickets are closed.
