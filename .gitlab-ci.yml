@@ -5,4 +5,4 @@ before_script:
 
 build:
   script:
-  - awesome_bot README.md --allow-dupe --white-list awesome-django,django-pagination,djangobeer,django-dynamic-preferences.,djangovillage
+  - awesome_bot README.md --allow-dupe --white-list awesome-django,django-pagination,djangobeer,django-dynamic-preferences.,djangovillage,django-shop
