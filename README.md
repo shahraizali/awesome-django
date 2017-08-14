@@ -633,7 +633,6 @@ phone numbers.
 * [Code School - Try Django](https://www.codeschool.com/courses/try-django) - An introduction to the basics of Django.
 * [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
 * [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
-* [One Month Django](https://onemonth.com) - The video series will teach you Django in one month
 
 # Utilities
 
