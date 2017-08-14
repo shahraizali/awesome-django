@@ -2,10 +2,6 @@
 
 [![Build status](https://gitlab.com/rosarior/awesome-django/badges/master/build.svg)](https://gitlab.com/rosarior/awesome-django/commits/master)
 
-[![Build Status](https://travis-ci.org/rosarior/awesome-django.svg)](https://travis-ci.org/rosarior/awesome-django)
-
-This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. The GitHub repository will be removed once all tickets are closed.
-
 A curated list of awesome Django apps, projects and resources.
 
 *Q: What is an awesome Django package?*
