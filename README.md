@@ -171,7 +171,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages that help to keep compatibility of reusable apps between different Django versions.*
 
-* [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for the officially  supported Django versions.
+* [django-compat](https://github.com/arteria/django-compat) - Forward and backwards compatibility layer for the officially supported Django versions.
 * [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
 
 ## Dashboards
