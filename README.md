@@ -581,6 +581,7 @@ phone numbers.
 * [django-salted](https://github.com/wunki/django-salted/) - Full stack SaltStack configuration for Django with the help of Vagrant.
 * [Drum](https://github.com/stephenmcd/drum) - Reddit / Hacker News clone for Django/Mezzanine.
 * [koalixcrm](https://github.com/tfroehlich82/koalixcrm) - Beautiful CRM/ERP for small business.
+* [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management and conversion, built with Django.
 
 ## Project Management
 
