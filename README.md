@@ -535,7 +535,7 @@ phone numbers.
 * [django-overextends](https://github.com/stephenmcd/django-overextends) - Circular template inheritance for Django.
 * [django-pagination](https://github.com/ericflo/django-pagination) - https://github.com/ericflo/django-pagination.
 * [django-el-pagination](https://github.com/shtalinberg/django-el-pagination) - Django EL(Endless) Pagination can be used to provide Twitter-style or Digg-style pagination, with optional Ajax support.
-* [django-simple-pagination](https://github.com/MicroPyramid/django-simple-pagination) - A Simple Django app to for digg-style pagination with little effort.
+* [django-simple-pagination](https://github.com/MicroPyramid/django-simple-pagination) - A Simple Django app for digg-style pagination with little effort.
 * [django-quiz-app](https://github.com/tomwalker/django_quiz/) - This is a configurable quiz app for Django.
 * [django-recaptcha](https://github.com/praekelt/django-recaptcha/) - Django reCAPTCHA form field/widget integration app.
 * [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
