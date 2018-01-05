@@ -23,6 +23,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Boilerplate](#boilerplate)
     - [Caching](#caching)
     - [Compatibility](#compatibility)
+    - [CRM](#crm)
     - [Dashboards](#dashboards)
     - [Data Sciences](#data-sciences)
     - [Database](#database)
@@ -176,6 +177,12 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 * [django-compat](https://github.com/arteria/django-compat) - Forward and backwards compatibility layer for the officially supported Django versions.
 * [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
+
+## CRM
+
+*Packages that help to manage business relationships of the organization.*
+
+* [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Customer relationship management dashboard where you can manage customers at sales of the organization. It Provides to manage leads information and its activity, track issues from leads, manage contacts to send emails of leads and accounts.
 
 ## Dashboards
 
@@ -561,6 +568,7 @@ phone numbers.
 * [Mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
 * [wagtail](https://github.com/wagtail/wagtail/) - A Django content management system focused on flexibility and user experience.
 * [leonardo](https://github.com/django-leonardo/django-leonardo/) - A new Django content management system built on top of FeinCMS and OpenStack Horizon.
+
 
 ## Document Management
 
