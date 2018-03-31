@@ -2,6 +2,8 @@
 
 [![Build status](https://gitlab.com/rosarior/awesome-django/badges/master/build.svg)](https://gitlab.com/rosarior/awesome-django/commits/master)
 
+If you find Awesome Django useful, [please consider donating](https://www.paypal.me/RobertoRosario) to help maintain it. Thank you!
+
 A curated list of awesome Django apps, projects and resources.
 
 *Q: What is an awesome Django package?*
@@ -37,7 +39,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Migrations](#migrations)
     - [Mobile Support](#mobile-support)
     - [Model Extensions](#model-extensions)
-    - [Multitenancy](#multitenancy)
+    - [Multi-tenancy](#multitenancy)
     - [Payment Processing](#payment-processing)
     - [Project Management](#project-management)
     - [Reporting](#reporting)
@@ -53,7 +55,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Thumbnail](#thumbnail)
     - [Translations](#translations)
     - [Views](#views)
-    - [Web frontend integration](#web-frontend-integration)
+    - [Web front-end integration](#web-frontend-integration)
     - [Wiki apps](#wiki-apps)
     - [Workflows](#workflows)
     - [WYSIWYG Editors](#wysiwyg-editors)
@@ -107,14 +109,14 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages that help manage the static assets of a project.*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
+* [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline JavaScript or CSS into a single cached file.
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
 * [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) - Asset packaging for Django.
-* [django-systemjs](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM integration in Django)
+* [django-systemjs](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the JavaScript of tomorrow to Django, today. (JSPM integration in Django)
 * [django-webpack-loader](https://github.com/ezhome/django-webpack-loader/) - Transparent webpack integration for django.
 * [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration.
-* [django-webpacker](https://github.com/MicroPyramid/django-webpacker) - A django compressor tool which bundles css, js files to a single css, js file with webpack and updates your html files with respective css, js file path.
+* [django-webpacker](https://github.com/MicroPyramid/django-webpacker) - A django compressor tool which bundles CSS, JS files to a single CSS, JS file with webpack and updates your HTML files with respective CSS, JS file path.
 
 ## Authentication
 
@@ -123,7 +125,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 * [django-organizations](https://github.com/bennylope/django-organizations) - Multi-user accounts for Django projects.
 * [django-otp](https://bitbucket.org/psagers/django-otp/) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
-* [django-registration](https://github.com/macropin/django-registration/) -  Simple user-registration application for Django, designed to make allowing user signups as painless as possible.
+* [django-registration](https://github.com/macropin/django-registration/) -  Simple user-registration application for Django, designed to make allowing user sign-ups as painless as possible.
 * [django-rest-auth](https://github.com/Tivix/django-rest-auth) -  A set of REST API endpoints to handle User Registration and Authentication tasks.
 * [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth/) - User-friendly Two-Factor authentication.
 * [django-userena](https://github.com/bread-and-pepper/django-userena/) - Accounts for Django made beautifully simple
