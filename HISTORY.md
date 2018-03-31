@@ -13,3 +13,4 @@
 - Update django-admin-bootstrap repository URL.
 - Update django-webpack-loader repository URL.
 - Update django-silk repository URL.
+- Update django-push-notifications repository URL.
