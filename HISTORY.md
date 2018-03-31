@@ -21,3 +21,5 @@
 - Update the Test-Driven Web Development with Python Book URL.
 - Whitelist djangocon.eu
 - Add django-user-sessions to the security section.
+- Add djoser, a REST implementation of Django authentication system to the authentication section.
+
