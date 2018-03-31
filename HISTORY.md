@@ -12,3 +12,4 @@
 - Update django-storages's URL.
 - Update django-admin-bootstrap repository URL.
 - Update django-webpack-loader repository URL.
+- Update django-silk repository URL.
