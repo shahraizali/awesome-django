@@ -19,3 +19,5 @@
 - Update django-rq repository URL.
 - Update Djen of Django URL.
 - Update the Test-Driven Web Development with Python Book URL.
+- Whitelist djangocon.eu
+- Add django-user-sessions to the security section.
