@@ -9,4 +9,4 @@
 - django-payu added to the payment processing section.
 - Update django-must-watch repository URL.
 - demo-allauth-bootstrap added to the boilerplate section.
-
+- Update django-storages's URL.
