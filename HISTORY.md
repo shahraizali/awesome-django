@@ -18,3 +18,4 @@
 - Rename django-ses-gateway to django-email-gateway according to upstream repository.
 - Update django-rq repository URL.
 - Update Djen of Django URL.
+- Update the Test-Driven Web Development with Python Book URL.
