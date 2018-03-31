@@ -373,6 +373,7 @@ phone numbers.
 
 * [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
 * [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
+* [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 * [djorm-ext-pgfulltext](https://github.com/linuxlewis/djorm-ext-pgfulltext) - PostgreSQL full-text search integration with django orm.
 
 ## Security

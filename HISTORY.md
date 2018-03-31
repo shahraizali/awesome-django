@@ -22,4 +22,4 @@
 - Whitelist djangocon.eu
 - Add django-user-sessions to the security section.
 - Add djoser, a REST implementation of Django authentication system to the authentication section.
-
+- Add djangoql, Advanced search language for Django to the search section.
