@@ -17,3 +17,4 @@
 - Update django-ses-gateway repository URL.
 - Rename django-ses-gateway to django-email-gateway according to upstream repository.
 - Update django-rq repository URL.
+- Update Djen of Django URL.

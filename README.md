@@ -611,7 +611,7 @@ phone numbers.
 ## Books
 
 * [Django by Example](https://github.com/kevinlondon/django-by-example) (1.2)
-* [Djen of Django](http://agiliq.com/books/djenofdjango/) (< 1.7)
+* [Djen of Django](https://agiliq.com/books/djenofdjango/) (< 1.7)
 * [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://www.gettingstartedwithdjango.com/) (video)
 * [High Performance Django](https://highperformancedjango.com/) (1.7) - Deploying fast, scalable Django sites.
