@@ -11,3 +11,4 @@
 - demo-allauth-bootstrap added to the boilerplate section.
 - Update django-storages's URL.
 - Update django-admin-bootstrap repository URL.
+- Update django-webpack-loader repository URL.
