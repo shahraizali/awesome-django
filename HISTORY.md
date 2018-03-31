@@ -14,3 +14,5 @@
 - Update django-webpack-loader repository URL.
 - Update django-silk repository URL.
 - Update django-push-notifications repository URL.
+- Update django-ses-gateway repository URL.
+- Rename django-ses-gateway to django-email-gateway according to upstream repository.
