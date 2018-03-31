@@ -5,4 +5,8 @@
 - Added new CRM category.
 - django-crm added to the CRM category.
 - django simple pagination added to other category.
+- django-ses-gateway added to Email section.
+- django-payu added to the payment processing section.
+- Update django-must-watch repository URL.
+- demo-allauth-bootstrap added to the boilerplate section.
 
