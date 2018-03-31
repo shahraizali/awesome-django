@@ -14,5 +14,5 @@ setup:
 	bundle install -V  --path vendor/bundle
 
 check:
-	bundle exec awesome_bot README.md --allow-dupe --white-list awesome-django,django-pagination,djangobeer,django-dynamic-preferences.,djangovillage,django-shop
+	bundle exec awesome_bot README.md --allow-dupe --white-list awesome-django,django-pagination,djangobeer,django-dynamic-preferences.,djangovillage,django-shop,djangocon.eu
 
