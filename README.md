@@ -235,6 +235,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-yubin](https://github.com/APSL/django-yubin) - django-mailer2 + django-mailviews with some extras.
 * [djmail](https://github.com/bameda/djmail) - A simple and nonobstructive django email middleware.
 * [djrill](https://github.com/brack3t/Djrill/) - Email backend and new message class for Mandrill transactional email service from MailChimp.
+* [django-ses-gateway](https://github.com/MicroPyramid/django-ses-gateway) - A django package which act as a gateway to send emails from SES. Receiving its' corresponding email replys, parsing reply email content with amazon SES.
 
 ## Fields
 
