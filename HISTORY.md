@@ -2,24 +2,24 @@
 ================
 - Add development setup. Make file to setup, check and render the repository.
 - Start new release cycle.
-- Added new CRM category.
-- django-crm added to the CRM category.
-- django simple pagination added to other category.
-- django-ses-gateway added to Email section.
-- django-payu added to the payment processing section.
-- Update django-must-watch repository URL.
-- demo-allauth-bootstrap added to the boilerplate section.
-- Update django-storages's URL.
-- Update django-admin-bootstrap repository URL.
-- Update django-webpack-loader repository URL.
-- Update django-silk repository URL.
-- Update django-push-notifications repository URL.
-- Update django-ses-gateway repository URL.
+- Add new CRM category.
+- Add django-crm, customer relationship management dashboard to the CRM category.
+- Add django-simple-pagination, simple Django app for digg-style pagination to other category.
+- Add django-email-gateway, a django package which act as a gateway to send emails from SES to Email section.
+- Add django-payu, A Django app that provides integration between Django and PayU Payment Gateway to the payment processing section.
+- Update the django-must-watch repository URL.
+- Add demo-allauth-bootstrap, Django sample app with users including social auth via Django-AllAuth to the boilerplate section.
+- Update the django-storages repository URL.
+- Update the django-admin-bootstrap repository URL.
+- Update the django-webpack-loader repository URL.
+- Update the django-silk repository URL.
+- Update the django-push-notifications repository URL.
+- Update the django-ses-gateway repository URL.
 - Rename django-ses-gateway to django-email-gateway according to upstream repository.
-- Update django-rq repository URL.
-- Update Djen of Django URL.
+- Update the django-rq repository URL.
+- Update the Djen of Django URL.
 - Update the Test-Driven Web Development with Python Book URL.
 - Whitelist djangocon.eu
-- Add django-user-sessions to the security section.
+- Add django-user-sessions, extension that allows enumerating all user's sessions to the security section.
 - Add djoser, a REST implementation of Django authentication system to the authentication section.
-- Add djangoql, Advanced search language for Django to the search section.
+- Add djangoql, advanced search language for Django to the search section.
