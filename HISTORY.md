@@ -25,3 +25,4 @@
 - Add djangoql, advanced search language for Django to the search section.
 - Add django-eraserhead, package that provides hints to optimize database to the testing.
 - Add django-admin-env-notice, Visually distinguish environments in Django Admin to the Other section.
+- Add django-migrations-graph, command to display migrations with dependencies to the migrations section.
