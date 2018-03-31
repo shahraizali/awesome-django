@@ -81,7 +81,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 *Packages that extend the Admin interface, adding or improving features.*
 
 * [djamin](https://github.com/hersonls/djamin/) - A new style for Django admin.
-* [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) - Responsive Skin for Django Admin
+* [django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap) - Responsive Skin for Django Admin
 * [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - A Django admin theme using Twitter Bootstrap.
 * [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators.
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - The ultimate admin interface, based on a modern flat theme, it lets you customize the admin title, logo and colors by the admin itself.

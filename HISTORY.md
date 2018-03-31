@@ -10,3 +10,4 @@
 - Update django-must-watch repository URL.
 - demo-allauth-bootstrap added to the boilerplate section.
 - Update django-storages's URL.
+- Update django-admin-bootstrap repository URL.
