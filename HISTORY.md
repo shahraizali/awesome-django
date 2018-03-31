@@ -23,3 +23,4 @@
 - Add django-user-sessions, extension that allows enumerating all user's sessions to the security section.
 - Add djoser, a REST implementation of Django authentication system to the authentication section.
 - Add djangoql, advanced search language for Django to the search section.
+- Add django-eraserhead, package that provides hints to optimize database.
