@@ -2,6 +2,7 @@
 <div align="center">
 
 # Awesome Django [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> The Best and awesome Django resource for packages.
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*nC94XZXcbKJQVF1vhj30nQ.png" align="absmiddle"/> 
 
