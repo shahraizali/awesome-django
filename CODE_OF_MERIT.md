@@ -6,10 +6,10 @@ of the project, technical or otherwise, including overruling previous decisions.
 There are no limitations to this decisional power.
 
 2. Contributions are an expected result of your membership on the project.
-Don't expect others to do your work or help you with your work forever. 
+Don't expect others to do your work or help you with your work forever.
 
 3. All members have the same opportunities to seek any challenge they want
-within the project. 
+within the project.
 
 4. Authority or position in the project will be proportional
 to the accrued contribution. Seniority must be earned.
@@ -39,8 +39,8 @@ of the originator to provide requested context.
 in the scope of the project. This Code of Merit does not take precedence over
 governing law.
 
-12. This Code of Merit governs the technical procedures of the project not the 
-activities outside of it. 
+12. This Code of Merit governs the technical procedures of the project not the
+activities outside of it.
 
 13. Participation on the project equates to agreement of this Code of Merit.
 
