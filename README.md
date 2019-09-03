@@ -73,7 +73,9 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Document Management](#document-management)
     - [Project Management](#project-management)
     - [e-Commerce](#e-commerce)
+    - [Machine Learning](#machine-learning)
     - [Other](#other)
+
 - [Resources](#resources)
     - [Books](#books)
     - [Conferences](#conferences)
@@ -531,6 +533,13 @@ phone numbers.
 * [django-viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django.
 * [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows provides a generic workflow engine for Django.
 * [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
+
+## Machine Learning
+
+*Some projects related to machine learning and AI*
+
+* [moviegeek](https://github.com/practical-recommender-systems/moviegeek) - A django website used in the book [<I>Practical Recommender Systems</I>](https://www.manning.com/books/practical-recommender-systems) to show how recommender systems work, and how you can implement them
+
 
 ## Other
 
