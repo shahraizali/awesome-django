@@ -437,6 +437,9 @@ phone numbers.
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
 * [django-taggit-helpers](https://github.com/mfcovington/django-taggit-helpers) - Django admin helper classes for django-taggit tags.
 
+## Hit Count
+* [django-hitcount](https://github.com/thornomad/django-hitcount) - Django-Hitcount allows you to track the number of hits/views for a particular object.
+
 ## Task Queue
 
 *Packages that make working with task/background queues easier.*
