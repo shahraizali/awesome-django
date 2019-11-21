@@ -469,6 +469,7 @@ phone numbers.
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test.
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
 * [django-eraserhead](https://github.com/dizballanze/django-eraserhead) - Django package that provides hints to optimize database usage by deferring unused fields (and more).
+* [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test Django schema and data migrations, including migrations' order.
 
 ## Thumbnail
 
