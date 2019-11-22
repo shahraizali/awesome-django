@@ -469,6 +469,7 @@ phone numbers.
 * [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects.
 * [mixer](https://github.com/klen/mixer) - An application to generate instances of Django or SQLAlchemy models. Fast and convenient test-data generation.
 * [mock-django](https://github.com/dcramer/mock-django) - A simple library for mocking certain Django behavior, such as the ORM.
+* [model-bakery](https://github.com/model-bakers/model_bakery/) - Smart way to create fixtures for testing in Django
 * [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test.
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
