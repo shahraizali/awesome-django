@@ -432,6 +432,7 @@ phone numbers.
 * [django-storages](https://github.com/jschneier/django-storages) - django-storages is a collection of custom storage backends for Django.
 * [django-queued-storage](https://github.com/jazzband/django-queued-storage) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
 * [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage.
+* [django-cloudinary-storage](https://github.com/klis87/django-cloudinary-storage) - Django package that provides Cloudinary storages for both media and static files as well as management commands for removing unnecessary files.
 
 ## Tagging
 
