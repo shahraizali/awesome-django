@@ -317,7 +317,7 @@ phone numbers.
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations that supports Django up to 1.6.x. ([Django 1.7 and up have an integrated migration system, based on but not compatible with South](https://docs.djangoproject.com/en/dev/topics/migrations/))
 * [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 * [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test Django schema and data migrations, including migrations' order.
-
+* [django-liquidb](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 ## Mobile Support
 
 *Packages that help you support for mobile iOS, Android and Others.*
