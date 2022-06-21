@@ -341,6 +341,8 @@ phone numbers.
 *Packages that allow a single install of Django to serve multiple organizations.*
 
 * [django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas/) - Tenant support for Django using PostgreSQL schemas.
+* [django-tenants](https://github.com/django-tenants/django-tenants) - An Active fork of _django-tenant-schemas_ which provides more features and enhancements.
+* [tenant-schemas-celery](https://github.com/maciej-gol/tenant-schemas-celery/) - Tenant Aware Celery App to cooperate with multi-tenancy provided by _django-tenant-schemas_ and _django-tenants_ packages.
 
 ## Payment Processing
 
