@@ -89,6 +89,9 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages that extend the Admin interface, adding or improving features.*
 
+* [Django Jazzmin](https://github.com/farridav/django-jazzmin) - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy
+* [django-admin-vol](https://github.com/app-generator/django-admin-volt) - Modern Bootstrap5 Design
+* [Django Semantic](https://github.com/globophobe/django-semantic-admin) - A completely free (MIT) Semantic UI admin theme for Django
 * [djamin](https://github.com/hersonls/djamin/) - A new style for Django admin.
 * [django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap) - Responsive Skin for Django Admin.
 * [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - A Django admin theme using Twitter Bootstrap.
