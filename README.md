@@ -179,6 +179,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge.
 * [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - Django sample app with users including social auth via Django-AllAuth.
 * [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge Django template focused on code quality and security.
+* [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience. 
 
 ## Caching
 
