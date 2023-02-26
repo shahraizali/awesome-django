@@ -699,7 +699,7 @@ phone numbers.
 
 * [CodingforEntrepreneur](https://www.codingforentrepreneurs.com/projects/) - One of the best collection of Django Videos and all the projects are written in Django.
 * [Code School - Try Django](https://www.codeschool.com/courses/try-django) - An introduction to the basics of Django.
-* [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
+* [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django components.
 * [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django. (or about Python as applied to Django)
 
 # Utilities
