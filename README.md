@@ -149,6 +149,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 * [python-social-auth](https://github.com/omab/python-social-auth/) - Python Social Auth is an easy-to-setup social authentication/registration mechanism with support for several frameworks and auth providers.
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Drop-in API endpoints for handling authentication securely in Django Rest Framework. Works especially well with SPAs (e.g React, Vue, Angular), and Mobile applications.
+* [django-use-email-as-username](https://github.com/jmfederico/django-use-email-as-username) - A Django app to use email as username for user authentication.
 
 ## Authorization
 
