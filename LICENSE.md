@@ -1,4 +1,4 @@
-This repo was managed by 'Roberto Rosario' previously who has recentlty removed it from his profile. [here is the link to what he has to say about it ](https://gitlab.com/rosarior/awesome-django) so the credit of this great initiative goes to him. ofcourse for the greater good of community someone has to maintain the repo I have decided to take it further from this commit onwards. community support is always great to have. if you people know some of the packages/tools please do add them to the repo and create the PR.
+This repo was managed by 'Roberto Rosario' previously who has recently removed it from his profile. [here is the link to what he has to say about it ](https://gitlab.com/rosarior/awesome-django) so the credit of this great initiative goes to him. ofcourse for the greater good of community someone has to maintain the repo I have decided to take it further from this commit onwards. community support is always great to have. if you people know some of the packages/tools please do add them to the repo and create the PR.
 
 
 License details added by 'Roberto Rosario':

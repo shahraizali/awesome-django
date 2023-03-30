@@ -89,6 +89,10 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages that extend the Admin interface, adding or improving features.*
 
+* [Django Unfold](https://github.com/remastr/django-unfold) - Unfold Django Admin Theme
+* [Django Jazzmin](https://github.com/farridav/django-jazzmin) - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy
+* [django-admin-vol](https://github.com/app-generator/django-admin-volt) - Modern Bootstrap5 Design
+* [Django Semantic](https://github.com/globophobe/django-semantic-admin) - A completely free (MIT) Semantic UI admin theme for Django
 * [djamin](https://github.com/hersonls/djamin/) - A new style for Django admin.
 * [django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap) - Responsive Skin for Django Admin.
 * [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - A Django admin theme using Twitter Bootstrap.
@@ -102,12 +106,15 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
 * [django-hijack](https://github.com/arteria/django-hijack/) - Allows superusers to hijack (=login as) and work on behalf of another user.
 * [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the admin interface with improved functionality.
+* [django-jet-reboot](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 * [django-material](https://github.com/viewflow/django-material) Material design for Django Forms and Admin. Template driven.
 * [django-object-actions](https://github.com/crccheck/django-object-actions) A Django app for adding object tools for models in the admin.
 * [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
 * [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress look and feel for Django administration panel.
 * [django-xadmin](https://github.com/sshwsfc/xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django.
+* [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`, ... etc.
+
 
 ## Analytics
 
@@ -135,13 +142,13 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 * [django-organizations](https://github.com/bennylope/django-organizations) - Multi-user accounts for Django projects.
-* [django-otp](https://bitbucket.org/psagers/django-otp/) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
 * [django-registration](https://github.com/macropin/django-registration/) -  Simple user-registration application for Django, designed to make allowing user sign-ups as painless as possible.
-* [django-rest-auth](https://github.com/Tivix/django-rest-auth) -  A set of REST API endpoints to handle User Registration and Authentication tasks.
 * [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth/) - User-friendly Two-Factor authentication.
 * [django-userena](https://github.com/bread-and-pepper/django-userena/) - Accounts for Django made beautifully simple.
 * [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 * [python-social-auth](https://github.com/omab/python-social-auth/) - Python Social Auth is an easy-to-setup social authentication/registration mechanism with support for several frameworks and auth providers.
+* [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Drop-in API endpoints for handling authentication securely in Django Rest Framework. Works especially well with SPAs (e.g React, Vue, Angular), and Mobile applications.
+* [django-use-email-as-username](https://github.com/jmfederico/django-use-email-as-username) - A Django app to use email as username for user authentication.
 
 ## Authorization
 
@@ -172,6 +179,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge.
 * [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - Django sample app with users including social auth via Django-AllAuth.
 * [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge Django template focused on code quality and security.
+* [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience. 
 
 ## Caching
 
@@ -219,6 +227,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-mysql](https://github.com/adamchainz/django-mysql/) - Extensions to Django for use with MySQL/MariaDB.
 * [django-postgres-fuzzycount](https://github.com/stephenmcd/django-postgres-fuzzycount) - Fast / fuzzy PostgreSQL counts for Django.
 * [django-postgrespool](https://github.com/kennethreitz/django-postgrespool/) - Postgres Connection Pooling for Django, powered by SQLAlchemy.
+* [djongo](https://github.com/nesdis/djongo/) - Django and MongoDB database connector.
 
 ## Debugging
 
@@ -305,6 +314,9 @@ phone numbers.
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
 * [django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
+* [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes
+* [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+
 ## Import/Export
 
 * [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
@@ -316,7 +328,7 @@ phone numbers.
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations that supports Django up to 1.6.x. ([Django 1.7 and up have an integrated migration system, based on but not compatible with South](https://docs.djangoproject.com/en/dev/topics/migrations/))
 * [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 * [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test Django schema and data migrations, including migrations' order.
-
+* [django-liquidb](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 ## Mobile Support
 
 *Packages that help you support for mobile iOS, Android and Others.*
@@ -339,6 +351,8 @@ phone numbers.
 *Packages that allow a single install of Django to serve multiple organizations.*
 
 * [django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas/) - Tenant support for Django using PostgreSQL schemas.
+* [django-tenants](https://github.com/django-tenants/django-tenants) - An Active fork of _django-tenant-schemas_ which provides more features and enhancements.
+* [tenant-schemas-celery](https://github.com/maciej-gol/tenant-schemas-celery/) - Tenant Aware Celery App to cooperate with multi-tenancy provided by _django-tenant-schemas_ and _django-tenants_ packages.
 
 ## Payment Processing
 
@@ -685,7 +699,7 @@ phone numbers.
 
 * [CodingforEntrepreneur](https://www.codingforentrepreneurs.com/projects/) - One of the best collection of Django Videos and all the projects are written in Django.
 * [Code School - Try Django](https://www.codeschool.com/courses/try-django) - An introduction to the basics of Django.
-* [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
+* [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django components.
 * [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django. (or about Python as applied to Django)
 
 # Utilities
