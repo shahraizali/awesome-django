@@ -371,7 +371,6 @@ phone numbers.
 ## Project Management
 
 *Packages for project management and time-tracking.*
-
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
 
 ## Reporting
@@ -645,6 +644,7 @@ phone numbers.
 
 ## Project Management
 
+* [Plane](https://github.com/makeplane/plane) - Open-source, self-hosted project planning tool
 * [ITSY](https://github.com/yetkinozturk/ITSY/) - Issue Tracking System.
 * [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool.
 
