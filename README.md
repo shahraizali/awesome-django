@@ -517,6 +517,7 @@ phone numbers.
 
 * [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
 * [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views/) - Beautifully simple class-based views.
+* [django-swift-crud](https://github.com/khaledsukkar2/django-swift-crud) - Provides a streamlined and customizable approach to setting up CRUD operations for any Django model within just one view class.
 
 ## Web frontend integration
 
