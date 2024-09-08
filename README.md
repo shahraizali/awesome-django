@@ -44,6 +44,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [GIS](#gis)
     - [Image handling](#image-handling)
     - [Import/Export](#importexport)
+    - [LLMs](#llms)
     - [Migrations](#migrations)
     - [Mobile Support](#mobile-support)
     - [Model Extensions](#model-extensions)
@@ -321,6 +322,12 @@ phone numbers.
 ## Import/Export
 
 * [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
+
+## LLMs
+
+*Packages that help you with integrating LLMs in your applications easily
+* [django-llm](https://github.com/mikrl/django-llm) - An app for Django to aid development of large language model (LLM) workflows.
+* [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Combine the power of LLMs with Django's productivity to build intelligent applications.
 
 ## Migrations
 
