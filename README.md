@@ -115,6 +115,8 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-xadmin](https://github.com/sshwsfc/xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django.
 * [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`, ... etc.
+* [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
+
 
 
 ## Analytics
