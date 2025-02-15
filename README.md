@@ -208,6 +208,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 *Packages that help to manage business relationships of the organization.*
 
 * [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Customer relationship management dashboard where you can manage customers at sales of the organization. It Provides to manage leads information and its activity, track issues from leads, manage contacts to send emails of leads and accounts.
+* [Django-CRM-Admin](https://github.com/DjangoCRM/django-crm) - Analytical CRM with Tasks management, Email marketing and many more. Django CRM software app is built for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development.
 
 ## Dashboards
 
