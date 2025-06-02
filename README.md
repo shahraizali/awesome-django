@@ -183,6 +183,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge Django template focused on code quality and security.
 * [falco](https://github.com/Tobi-De/falco) - Project Starter, Fast Prototyping and Guides for Django Developers.
 * [sidewinder](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment
+* [django-structurator](https://github.com/maulik-0207/django-structurator) - A CLI tool that helps you create Django projects and apps with a clean, scalable architecture—without boilerplate or repetitive setup.
 
 ## Caching
 
