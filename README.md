@@ -405,6 +405,7 @@ phone numbers.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python.
 * [djangorestframework-recursive](https://github.com/heywbj/django-rest-framework-recursive/) - Recursive Serialization for Django REST framework.
 * [apitally](https://github.com/apitally/apitally-py) - Simple API monitoring, analytics, and request logging for Django REST Framework and Django Ninja.
+* [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers) - Dynamically assemble, configure, and shape your Django Rest Framework serializers at runtime, much like connecting Lego bricks.
 
 ## Search
 
