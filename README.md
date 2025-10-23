@@ -176,6 +176,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages related to starting a new project.*
 
+* [Django Keel](https://github.com/CuriousLearner/django-keel) — a batteries-included, production-ready Django template for SaaS, APIs, and web apps. Ships with Docker, Kubernetes (Helm/Kustomize), Postgres/Redis, Celery, Sentry, and CI/CD. Deploy to Render, Fly.io, or AWS EC2 via Ansible with minimal changes.
 * [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 * [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge.
