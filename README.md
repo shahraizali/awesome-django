@@ -244,6 +244,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
 * [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django.
 * [nplusone](https://github.com/jmcarp/nplusone/) - Auto-detecting the n+1 queries problem in Django. (and other ORMs)
+* [django-zeal](https://github.com/taobojlen/django-zeal/) - Catch all types of N+1 query before they hit prod, with a nice debugging experience
 * [sentry](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform.
 * [django-web-profiler](https://github.com/MicroPyramid/django-web-profiler) - A django profiling tool which logs, stores debug toolbar statistics and also a set of URL's statistics using a management command.
 
