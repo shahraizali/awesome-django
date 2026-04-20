@@ -397,6 +397,7 @@ phone numbers.
 
 *Packages for developing RESTful APIs.*
 
+* [django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
 * [django-nap](https://github.com/funkybob/django-nap/) - A minimalist approach to object serialization, RESTful views, and RPC views.
 * [django-rest-auth](https://github.com/Tivix/django-rest-auth/) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON).
 * [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
