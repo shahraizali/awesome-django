@@ -433,6 +433,7 @@ phone numbers.
 * [django-sudo](https://github.com/mattrobenolt/django-sudo) - Sudo mode is an extra layer of security for your most sensitive pages. This is an implementation of GitHub's Sudo Mode for Django.
 * [django-mfa](https://github.com/MicroPyramid/django-mfa) - Django app for providing MFA (Multi-Factor Authentication).
 * [django-user-sessions](https://github.com/Bouke/django-user-sessions) - Extend Django sessions with a foreign key back to the user, allowing enumerating all user's sessions.
+* [djapi-guard](https://github.com/Guard-Core/djapi-guard) - Middleware for IP filtering, rate limiting with automatic bans and penetration attempt detection.
 
 ## SEO
 
