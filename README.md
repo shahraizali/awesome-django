@@ -653,6 +653,7 @@ phone numbers.
 ## Other
 
 * [Django packages](https://github.com/djangopackages/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
+* [django-invoice-reminders](https://github.com/Sid-Lais/django-invoice-reminders) - Automated invoice payment reminder emails for Django, sent on a schedule via the Mailtrap Email API.
 * [Django-QA](https://github.com/swappsco/django-qa/) - A simple Q&A App.
 * [django-salted](https://github.com/wunki/django-salted/) - Full stack SaltStack configuration for Django with the help of Vagrant.
 * [Drum](https://github.com/stephenmcd/drum) - Reddit / Hacker News clone for Django/Mezzanine.
