@@ -116,6 +116,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-xadmin](https://github.com/sshwsfc/xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django.
 * [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`, ... etc.
+* [django-vantage](https://github.com/Pythondeveloper6/django-vantage) - A smart, modern admin panel for Django with zero config to start.
 
 
 ## Analytics
@@ -481,6 +482,7 @@ phone numbers.
 * [django-q2](https://github.com/django-q2/django-q2) A multiprocessing distributed task queue for Django based on Django-Q.
 * [django-rq](https://github.com/rq/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 * [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
+* [celery-manager](https://github.com/Pythondeveloper6/celery-manager) - Dashboard and REST API for Celery tasks, with pause/cancel of a single future run of a periodic task.
 
 ## Testing
 
