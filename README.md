@@ -408,6 +408,7 @@ phone numbers.
 * [djangorestframework-recursive](https://github.com/heywbj/django-rest-framework-recursive/) - Recursive Serialization for Django REST framework.
 * [apitally](https://github.com/apitally/apitally-py) - Simple API monitoring, analytics, and request logging for Django REST Framework and Django Ninja.
 * [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers) - Dynamically assemble, configure, and shape your Django Rest Framework serializers at runtime, much like connecting Lego bricks.
+* [usagerail](https://github.com/usagerail/sdk) - Middleware for paid APIs: checks API keys, applies each customer's rate limit and quota, and counts their usage. Works with Django REST Framework views.
 
 ## Search
 
